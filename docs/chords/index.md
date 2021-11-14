@@ -1,4 +1,7 @@
 # Chord Sheets
+## 20th November 2021
+- [D - Father I place Into Your Hands](https://hoo-are-ya.github.io/worship/chords/father-i-place-into-your-hands-D.pdf)
+
 ## 31st October 2021
 - [E - Great big God](https://hoo-are-ya.github.io/worship/chords/great-big-god-E.pdf)
 - [B - Our God](https://hoo-are-ya.github.io/worship/chords/our-god-B.pdf)
