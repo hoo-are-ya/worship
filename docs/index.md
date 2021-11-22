@@ -1,4 +1,5 @@
 # Song Projections
+- [Sunday 28th November 2021](https://hoo-are-ya.github.io/worship/songs_28-11-2021.pdf)
 - [Saturday 20th November 2021](https://hoo-are-ya.github.io/worship/songs_20-11-2021.pdf)
 - [Sunday 7th November 2021](https://hoo-are-ya.github.io/worship/songs_7-11-2021-2.pdf)
 - [Sunday 31st October 2021](https://hoo-are-ya.github.io/worship/songs_31-10-2021.pdf)
