@@ -1,6 +1,6 @@
 # Song Projections
 ## 2022
-- [Sunday 23rd December 2022](https://hoo-are-ya.github.io/worship/songs_23-01-2022.pdf)
+- [Sunday 23rd December 2022](https://hoo-are-ya.github.io/worship/songs_23-01-2022-2.pdf)
 - [Sunday 16th December 2022](https://hoo-are-ya.github.io/worship/songs_16-01-2022.pdf)
 ## 2021
 - [Sunday 12th December 2021](https://hoo-are-ya.github.io/worship/songs_12-12-2021.pdf)
