@@ -2,6 +2,7 @@
 
 ## 2022
 
+- [Sunday 20th February 2022](https://hoo-are-ya.github.io/worship/songs_20-02-2022.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_20-02-2022.pdf)
 - [Sunday 13th February 2022](https://hoo-are-ya.github.io/worship/songs_13-02-2022.pdf)
 - [Sunday 6th February 2022](https://hoo-are-ya.github.io/worship/songs_06-02-2022.pdf)
 - [Sunday 30th January 2022](https://hoo-are-ya.github.io/worship/songs_30-01-2022.pdf)
