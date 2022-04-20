@@ -1,5 +1,6 @@
 # Rota
-<img src=rota_april_june.jpg />
+
+<img src="rota_april_june.jpg" >
 
 # Song Projections
 
