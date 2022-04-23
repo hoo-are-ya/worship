@@ -2,7 +2,7 @@
 
 <img src="rota_april_june.jpg" >
 
-# Song Projections
+# Worship Sessions
 
 ## 2022
 
