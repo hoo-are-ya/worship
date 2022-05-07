@@ -6,6 +6,7 @@
 
 ## 2022
 
+- [Sunday 8th May 2022](https://hoo-are-ya.github.io/worship/songs_2022-05-08.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-05-08.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-05-08.pptx)
 - [Sunday 1st May 2022](https://hoo-are-ya.github.io/worship/songs_2022-05-01.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-05-01.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-05-01.pptx)
 - [Sunday 24th April 2022](https://hoo-are-ya.github.io/worship/songs_2022-04-24.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-04-24.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-04-24.pptx)
 - [Sunday 10th April 2022](https://hoo-are-ya.github.io/worship/songs_2022-04-10.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-04-10.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-04-10.pptx)
