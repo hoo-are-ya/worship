@@ -1,14 +1,14 @@
 # Rota
 
-Date | Worship Leader | BVs
---- | --- | ---
-15th May | Florence |Parveen, Michael
-22nd May | Debbie |Parveen, Val
-29th May | Parveen |Debbie, Dele
-5th June | All-In (MKC) | ALL
-12th June | Florence |Parveen, Val
-19th June | Parveen | Dele Michael
-26th June | Michael | Florence, Val
+Date | Worship Leader | BVs | Music
+--- | --- | --- | ---
+15th May | Florence |Parveen, Michael | Dele
+22nd May | Debbie |Parveen, Val | Dele
+29th May | Parveen |Debbie, Dele | Dele
+5th June | All-In (MKC) | ALL | ALL
+12th June | Florence |Parveen, Val | Dele
+19th June | Parveen | Dele Michael | Dele
+26th June | Michael | Florence, Val | Dele
 
 
 # Worship Sessions
