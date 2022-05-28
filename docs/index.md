@@ -14,6 +14,7 @@ Date | Worship Leader | BVs | Music
 # Worship Sessions
 
 ## 2022
+- [Sunday 29th May 2022](https://hoo-are-ya.github.io/worship/songs_2022-05-29.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-05-29.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-05-29.pptx)
 - [Sunday 22nd May 2022](https://hoo-are-ya.github.io/worship/songs_2022-05-22.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-05-22.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-05-22.pptx)
 - [Sunday 15th May 2022](https://hoo-are-ya.github.io/worship/songs_2022-05-15.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-05-15.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-05-15.pptx)
 - [Sunday 8th May 2022](https://hoo-are-ya.github.io/worship/songs_2022-05-08.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-05-08.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-05-08.pptx)
