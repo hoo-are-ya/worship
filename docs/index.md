@@ -12,7 +12,7 @@ July | 3 | Church Brunch |  | Background Music
 Aug  | 7 | Emma |  | Emma, Dele
      | 14 | ALL - IN |  | 
 	 | 21 | Florence |  | Dele 
-	 | 28 | Debbie & Val |  | No Music
+	 | 28 | Val |  | No Music
 Sept  | 4 | Parveen |  | Dele
      | 11 | ALL - IN |  | 	
      | 18 | Emma |  | Emma, Dele	 
@@ -20,9 +20,12 @@ Sept  | 4 | Parveen |  | Dele
 
 ## Worship Sessions
 
+- [Sunday 10th July 2022](https://hoo-are-ya.github.io/worship/songs_2022-07-10.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-07-10.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-07-10.pptx)
 
 
 # History
+
+## Rota
 
 Date | Worship Leader | BVs | Music
 --- | --- | --- | ---
