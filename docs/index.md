@@ -1,4 +1,27 @@
-# Rota
+# This Season
+
+## Rota
+
+Month | Date | Worship Leader | BVs | Music
+--- | --- | --- | --- | ---
+July | 10 | --- |  | 
+     | 17 | ALL - IN |  | 
+     | 24 | Parveen |  | 
+	 | 31 | Florence |  | 
+Aug  | 7 | Emma |  | 
+     | 14 | ALL - IN |  | 
+	 | 21 | Florence |  | 	 
+	 | 28 | Debbie & Val |  | 	
+Sept  | 4 | Parveen |  | 
+     | 11 | ALL - IN |  | 	
+     | 18 | Emma |  | 	 
+     | 25 | Michael |  | 	 	 
+
+## Worship Sessions
+
+
+
+# History
 
 Date | Worship Leader | BVs | Music
 --- | --- | --- | ---
@@ -10,10 +33,9 @@ Date | Worship Leader | BVs | Music
 19th June | Parveen | Dele Michael | Dele
 26th June | Michael | Florence, Val | Dele
 
+## Worship Sessions
 
-# Worship Sessions
-
-## 2022
+### 2022
 
 - [Sunday 26th June 2022](https://hoo-are-ya.github.io/worship/songs_2022-06-26.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-06-26.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-06-26.pptx)
 - [Sunday 19th June 2022](https://hoo-are-ya.github.io/worship/songs_2022-06-19.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-06-19.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-06-19.pptx)
@@ -39,7 +61,7 @@ Date | Worship Leader | BVs | Music
 - [Sunday 23rd January 2022](https://hoo-are-ya.github.io/worship/songs_23-01-2022-2.pdf)
 - [Sunday 16th January 2022](https://hoo-are-ya.github.io/worship/songs_16-01-2022.pdf)
 
-## 2021
+### 2021
 
 - [Sunday 12th December 2021](https://hoo-are-ya.github.io/worship/songs_12-12-2021.pdf)
 - [Sunday 5th December 2021](https://hoo-are-ya.github.io/worship/songs_5-12-2021.pdf)
