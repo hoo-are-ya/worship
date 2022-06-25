@@ -4,18 +4,19 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-July | 10 | --- |  | 
+July | 3 | Church Brunch |  | Background Music
+     | 10 | Dele |  | Dele
      | 17 | ALL - IN |  | 
-     | 24 | Parveen |  | 
-	 | 31 | Florence |  | 
-Aug  | 7 | Emma |  | 
+     | 24 | Parveen |  | Dele
+	 | 31 | Florence |  | Dele
+Aug  | 7 | Emma |  | Emma, Dele
      | 14 | ALL - IN |  | 
-	 | 21 | Florence |  | 	 
-	 | 28 | Debbie & Val |  | 	
-Sept  | 4 | Parveen |  | 
+	 | 21 | Florence |  | Dele 
+	 | 28 | Debbie & Val |  | No Music
+Sept  | 4 | Parveen |  | Dele
      | 11 | ALL - IN |  | 	
-     | 18 | Emma |  | 	 
-     | 25 | Michael |  | 	 	 
+     | 18 | Emma |  | Emma, Dele	 
+     | 25 | Michael |  | Dele	 	 
 
 ## Worship Sessions
 
