@@ -20,6 +20,7 @@ Sept  | 4 | Parveen | Florence/Jennifer | Dele
 
 ## Worship Sessions
 
+- [Sunday 31st July 2022](https://hoo-are-ya.github.io/worship/songs_2022-07-31.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-07-31.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-07-31.pptx)
 - [Sunday 24th July 2022](https://hoo-are-ya.github.io/worship/songs_2022-07-24.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-07-24.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-07-24.pptx)
 - [Sunday 10th July 2022](https://hoo-are-ya.github.io/worship/songs_2022-07-10.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-07-10.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-07-10.pptx)
 
