@@ -11,7 +11,7 @@ July | 3 | Church Brunch |  | Background Music
 	 | 31 | Florence | Jennifer/Dele | Dele
 Aug  | 7 | Emma | Parveen/Val | Emma, Dele
      | 14 | ALL - IN |  | 
-	 | 21 | Florence | Val/Jennifer | Dele 
+	 | 21 | Dele | Val/Jennifer | Dele 
 	 | 28 | No W/L |  | No Music
 Sept  | 4 | Parveen | Florence/Jennifer | Dele
      | 11 | ALL - IN |  | 	
@@ -20,6 +20,7 @@ Sept  | 4 | Parveen | Florence/Jennifer | Dele
 
 ## Worship Sessions
 
+- [Sunday 21st August 2022](https://hoo-are-ya.github.io/worship/songs_2022-08-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-08-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-08-21.pptx)
 - [Sunday 7th August 2022](https://hoo-are-ya.github.io/worship/songs_2022-08-07.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-08-07.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-08-07.pptx)
 - [Sunday 31st July 2022](https://hoo-are-ya.github.io/worship/songs_2022-07-31.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-07-31.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-07-31.pptx)
 - [Sunday 24th July 2022](https://hoo-are-ya.github.io/worship/songs_2022-07-24.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-07-24.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-07-24.pptx)
