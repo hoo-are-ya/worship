@@ -4,22 +4,23 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-July | 3 | Church Brunch |  | Background Music
-     | 10 | Dele | Jennifer/Florence | Dele
-     | 17 | ALL - IN |  | 
-     | 24 | Parveen | Val/Debbie | Dele
-	 | 31 | Florence | Jennifer/Dele | Dele
-Aug  | 7 | Emma | Parveen/Val | Emma, Dele
-     | 14 | ALL - IN |  | 
-	 | 21 | Dele | Val/Jennifer | Dele 
-	 | 28 | No W/L |  | No Music
-Sept  | 4 | Parveen | Florence/Jennifer | Dele
+Oct | 2 | Dele |  | Dele
+     | 9 | Michael |  | Dele
+     | 16 | Emma |  | Emma, Dele
+     | 23 | ALL - IN |  | 
+	 | 30 | Florence |  | Dele
+Nov  | 6 | Michael |  | Dele
+     | 13 | Emma |  | Emma
+	 | 20 | Dele |  | Dele 
+	 | 27 | Florence |  | Emma
+Dec  | 4 | Michael |  | Dele
      | 11 | ALL - IN |  | 	
-     | 18 | Emma | Val/Parveen | Emma, Dele	 
-     | 25 | Michael | Florence/Jennifer | Dele	 	 
+     | 18 | Dele |  |Dele	 
+     | 25 | XMAS |  | 	 	 
 
 ## Worship Sessions
 
+- [Sunday 25th September 2022](https://hoo-are-ya.github.io/worship/songs_2022-09-25.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-09-25.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-09-25.pptx)
 - [Sunday 4th September 2022](https://hoo-are-ya.github.io/worship/songs_2022-09-04.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-09-04.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-09-04.pptx)
 - [Sunday 21st August 2022](https://hoo-are-ya.github.io/worship/songs_2022-08-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-08-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-08-21.pptx)
 - [Sunday 7th August 2022](https://hoo-are-ya.github.io/worship/songs_2022-08-07.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-08-07.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-08-07.pptx)
@@ -32,15 +33,28 @@ Sept  | 4 | Parveen | Florence/Jennifer | Dele
 
 ## Rota
 
-Date | Worship Leader | BVs | Music
---- | --- | --- | ---
-15th May | Florence |Parveen, Michael | Dele
-22nd May | Debbie |Parveen, Val | Dele
-29th May | Parveen |Debbie, Dele | Dele
-5th June | All-In (MKC) | ALL | ALL
-12th June | Florence |Parveen, Val | Dele
-19th June | Parveen | Dele Michael | Dele
-26th June | Michael | Florence, Val | Dele
+Month | Date | Worship Leader | BVs | Music
+--- | --- | --- | --- | ---
+May | 15th | Florence |Parveen, Michael | Dele
+    | 22nd | Debbie |Parveen, Val | Dele
+    | 29th | Parveen |Debbie, Dele | Dele
+June| 5th  | | All-In (MKC) | ALL | ALL
+    | 12th | Florence |Parveen, Val | Dele
+	| 19th | Parveen | Dele Michael | Dele
+    | 26th | Michael | Florence, Val | Dele
+July| 3 | Church Brunch |  | Background Music
+    | 10 | Dele | Jennifer/Florence | Dele
+    | 17 | ALL - IN |  | 
+    | 24 | Parveen | Val/Debbie | Dele
+	| 31 | Florence | Jennifer/Dele | Dele
+Aug | 7 | Emma | Parveen/Val | Emma, Dele
+    | 14 | ALL - IN |  | 
+	| 21 | Dele | Val/Jennifer | Dele 
+	| 28 | No W/L |  | No Music
+Sept| 4 | Parveen | Florence/Jennifer | Dele
+    | 11 | ALL - IN |  | 	
+    | 18 | Emma | Val/Parveen | Emma, Dele	 
+    | 25 | Michael | Florence/Jennifer | Dele	 
 
 ## Worship Sessions
 
