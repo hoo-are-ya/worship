@@ -19,6 +19,7 @@ Dec  | 4 | Michael | Jennifer, Florence | Dele
      | 25 | XMAS |  | 	 	 
 
 ## Worship Sessions
+- [Sunday 18th December 2022](https://hoo-are-ya.github.io/worship/songs_2022-12-18.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-12-18.pdf)  - [PPT](https://github.com/hoo-are-ya/worship/releases/download/v0.0.1/video_2022-12-18-1.pptx)
 - [Sunday 4th December 2022](https://hoo-are-ya.github.io/worship/songs_2022-12-04.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-12-04.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-12-04.pptx)
 - [Sunday 27th November 2022](https://hoo-are-ya.github.io/worship/songs_2022-11-27.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-11-27.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-11-27.pptx)
 - [Sunday 20th November 2022](https://hoo-are-ya.github.io/worship/songs_2022-11-20.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-11-20.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-11-20.pptx)
