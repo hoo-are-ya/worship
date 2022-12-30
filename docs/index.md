@@ -13,7 +13,7 @@ Feb  | 5 | Michael | Jennifer, Val | Dele
 	 | 19 | ALL-IN |  |  
 	 | 26 | Dele | Val, Jennifer | Dele
 Mar  | 5  | Emma | Jennifer, Debbie | Emma
-	 | 12 | Michael | Val, Debbie | Emma	
+	 | 12 | Michael | Val, Debbie | Dele	
      | 19 | Emma | Dele, Florence | Emma, Dele	 
 	 | 26 | Dele | Val, Debbie  | Michael		 
 
