@@ -4,18 +4,18 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Jan | 8 | ALL-IN |  | 
-     | 15 | Emma | Jennifer, Florence | Emma, Dele
-	 | 22 | Dele | Michael, Val | Dele
-	 | 29 | Michael | Jennifer, Debbie | Emma	 
-Feb  | 5 | Michael | Jennifer, Val | Dele
-     | 12 | Emma | Val, Debbie | Emma
-	 | 19 | ALL-IN |  |  
-	 | 26 | Dele | Val, Jennifer | Dele
-Mar  | 5  | Emma | Jennifer, Debbie | Emma
-	 | 12 | Michael | Val, Debbie | Dele	
-     | 19 | Emma | Dele, Florence | Emma, Dele	 
-	 | 26 | Dele | Val, Debbie  | Michael		 
+Jan | 8  | ALL-IN |  | ..
+.   | 15 | Emma | Jennifer, Florence | Emma, Dele
+.   | 22 | Dele | Michael, Val | Dele
+.   | 29 | Michael | Jennifer, Debbie | Emma, Dele	 
+Feb | 5 | Michael | Jennifer, Val | Dele
+.   | 12 | Emma | Val, Debbie | Emma
+.   | 19 | ALL-IN |  |  
+.   | 26 | Dele | Val, Jennifer | Dele
+Mar | 5  | Emma | Jennifer, Debbie | Emma, Dele
+.   | 12 | Michael | Val, Debbie | Dele	
+.   | 19 | Emma | Dele, Florence | Emma, Dele	 
+.   | 26 | Dele | Val, Debbie  | Michael		 
 
 ## Worship Sessions
 - [Sunday 18th December 2022](https://hoo-are-ya.github.io/worship/songs_2022-12-18.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-12-18.pdf)  - [PPT](https://github.com/hoo-are-ya/worship/releases/download/v0.0.1/video_2022-12-18-1.pptx)
