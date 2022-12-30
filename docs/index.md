@@ -4,19 +4,18 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Oct | 2 | Dele | Jennifer, Debbie | Dele
-     | 9 | Michael | Florence, Val | Dele
-     | 16 | Emma | Jennifer, Debbie | Emma, Dele
-     | 23 | ALL - IN |  | 
-	 | 30 | Florence | Val, Jennifer | Dele
-Nov  | 6 | Michael | Florence, Debbie | Dele
-     | 13 | Emma | Val, Jennifer | Emma
-	 | 20 | Dele | Michael, Debbie | Dele 
-	 | 27 | Florence | Val, Jennifer | Emma
-Dec  | 4 | Michael | Jennifer, Florence | Dele
-     | 11 | ALL - IN |  | 	
-     | 18 | Dele | Val, Michael |Dele	 
-     | 25 | XMAS |  | 	 	 
+Jan | 8 | ALL-IN |  | 
+     | 15 | Emma | Jennifer, Florence | Emma, Dele
+	 | 22 | Dele | Michael, Val | Dele
+	 | 29 | Michael | Jennifer, Debbie | Emma	 
+Feb  | 5 | Michael | Jennifer, Val | Dele
+     | 12 | Emma | Val, Debbie | Emma
+	 | 19 | ALL-IN |  |  
+	 | 26 | Dele | Val, Jennifer | Dele
+Mar  | 5  | Emma | Jennifer, Debbie | Emma
+	 | 12 | Michael | Val, Debbie | Emma	
+     | 19 | Emma | Dele, Florence | Emma, Dele	 
+	 | 26 | Dele | Val, Debbie  | Michael		 
 
 ## Worship Sessions
 - [Sunday 18th December 2022](https://hoo-are-ya.github.io/worship/songs_2022-12-18.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-12-18.pdf)  - [PPT](https://github.com/hoo-are-ya/worship/releases/download/v0.0.1/video_2022-12-18-1.pptx)
@@ -25,7 +24,7 @@ Dec  | 4 | Michael | Jennifer, Florence | Dele
 - [Sunday 20th November 2022](https://hoo-are-ya.github.io/worship/songs_2022-11-20.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-11-20.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-11-20.pptx)
 - [Sunday 13th November 2022](https://hoo-are-ya.github.io/worship/songs_2022-11-13.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-11-13.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-11-13.pptx)
 - [Sunday 6th November 2022](https://hoo-are-ya.github.io/worship/songs_2022-11-06.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-11-06.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-11-06.pptx)
-- [Sunday 30th October 2022](https://hoo-are-ya.github.io/worship/songs_2022-10-30.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-10-30.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-10-30.pptx)
+- [Sunday 30th October 2022](https://hoo-ane-ya.github.io/worship/songs_2022-10-30.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-10-30.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-10-30.pptx)
 - [Sunday 16th October 2022](https://hoo-are-ya.github.io/worship/songs_2022-10-16.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-10-16.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-10-16.pptx)
 - [Sunday 9th October 2022](https://hoo-are-ya.github.io/worship/songs_2022-10-09.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-10-09.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-10-09.pptx)
 - [Sunday 2nd October 2022](https://hoo-are-ya.github.io/worship/songs_2022-10-02.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2022-10-02.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2022-10-02.pptx)
@@ -64,6 +63,19 @@ Sept| 4 | Parveen | Florence/Jennifer | Dele
     | 11 | ALL - IN |  | 	
     | 18 | Emma | Val/Parveen | Emma, Dele	 
     | 25 | Michael | Florence/Jennifer | Dele	 
+Oct | 2 | Dele | Jennifer, Debbie | Dele
+     | 9 | Michael | Florence, Val | Dele
+     | 16 | Emma | Jennifer, Debbie | Emma, Dele
+     | 23 | ALL - IN |  | 
+	 | 30 | Florence | Val, Jennifer | Dele
+Nov  | 6 | Michael | Florence, Debbie | Dele
+     | 13 | Emma | Val, Jennifer | Emma
+	 | 20 | Dele | Michael, Debbie | Dele 
+	 | 27 | Florence | Val, Jennifer | Emma
+Dec  | 4 | Michael | Jennifer, Florence | Dele
+     | 11 | ALL - IN |  | 	
+     | 18 | Dele | Val, Michael |Dele	 
+     | 25 | XMAS |  | 	
 
 ## Worship Sessions
 
