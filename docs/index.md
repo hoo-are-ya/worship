@@ -18,6 +18,7 @@ Mar | 5  | Emma | Jennifer, Debbie | Emma, Dele
 .   | 26 | Dele | Val, Debbie  | Michael		 
 
 ## Worship Sessions
+- [Sunday 29th January 2023](https://hoo-are-ya.github.io/worship/songs_2023-01-29.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-01-29.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-01-29.pptx)
 - [Sunday 22nd January 2023](https://hoo-are-ya.github.io/worship/songs_2023-01-22.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-01-22.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-01-22.pptx)
 - [Sunday 15th January 2023](https://hoo-are-ya.github.io/worship/songs_2023-01-15.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-01-15.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-01-15.pptx)
 - [Sunday 8th January 2023](https://hoo-are-ya.github.io/worship/songs_2023-01-08.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-01-08.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-01-08.pptx)
