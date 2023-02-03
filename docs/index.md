@@ -9,11 +9,11 @@ Jan | 8  | ALL-IN |  | ..
 .   | 22 | Dele | Michael, Val | Dele
 .   | 29 | Michael | Jennifer, Debbie | Emma, Dele	 
 Feb | 5 | Michael | Jennifer, Val | Dele
-.   | 12 | Emma | Val, Debbie | Emma
+.   | 12 | Emma | Emma | Emma
 .   | 19 | ALL-IN |  |  
 .   | 26 | Dele | Val, Jennifer | Dele
-Mar | 5  | Emma | Jennifer, Debbie | Emma, Dele
-.   | 12 | Michael | Val, Debbie | Dele	
+Mar | 5  | Dele | Jennifer, Debbie | Dele
+.   | 12 | Michael | Val, Debbie | Emma, Dele	
 .   | 19 | Emma | Dele, Florence | Emma, Dele	 
 .   | 26 | Dele | Val, Debbie  | Michael		 
 
