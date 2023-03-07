@@ -4,6 +4,10 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
+Mar | 5  | Dele | Jennifer, Debbie | Dele
+.   | 12 | Michael | Val, Debbie | Emma, Dele	
+.   | 19 | Emma | Dele, Florence | Emma, Dele	 
+.   | 26 | Dele | Val, Debbie  | Michael	
 Apr | 2 | Michael | Jennifer, Val | Dele	
 .   | 9 | ALL-IN |  |  
 .   | 16 | Emma | Michael, Parveen | Emma, Dele
