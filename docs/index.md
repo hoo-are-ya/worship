@@ -4,10 +4,7 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Mar | 5  | Dele | Jennifer, Debbie | Dele
-.   | 12 | Michael | Val, Debbie | Emma, Dele	
-.   | 19 | Emma | Dele, Florence | Emma, Dele	 
-.   | 26 | Dele | Val, Debbie  | Michael	
+Mar | 26 | Dele | Val, Debbie  | Michael	
 Apr | 2 | Michael | Jennifer, Val | Dele	
 .   | 9 | ALL-IN |  |  
 .   | 16 | Emma | Michael, Parveen | Emma, Dele
@@ -23,6 +20,7 @@ Jun | 4  | Michael | Jennifer, Debbie | Dele
 .   | 25 | Parveen | Val, Jennifer  | Dele		 
 
 ## Worship Sessions
+- [Sunday 26th March 2023](https://hoo-are-ya.github.io/worship/songs_2023-03-26.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-03-26.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-03-26.pptx)
 - [Sunday 19th March 2023](https://hoo-are-ya.github.io/worship/songs_2023-03-19.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-03-19.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-03-19.pptx)
 - [Sunday 12th March 2023](https://hoo-are-ya.github.io/worship/songs_2023-03-12.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-03-12.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-03-12.pptx)
 - [Sunday 5th March 2023](https://hoo-are-ya.github.io/worship/songs_2023-03-05.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-03-05.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-03-05.pptx)
