@@ -4,19 +4,21 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Apr | 2 | Michael | Jennifer, Val | Dele	
-.   | 9 | ALL-IN |  |  
+Jun | 18 | Emma | Michael, Jennifer | Emma, Dele	 
+.   | 25 | Parveen | Val, Jennifer  | Worship Videos	
+Jul | 2  | Dele | Jennifer, Val | Dele	
+.   | 9  | ALL-IN |  |  
 .   | 16 | Emma | Michael, Parveen | Emma, Dele
-.   | 23 | Michael | Jennifer, Debbie | Dele	 
-.   | 30 | Parveen | Val, Debbie | Dele	
-May | 7 | Dele | Jennifer, Michael | Dele
-.   | 14 | Emma | Val Michael | Emma, Dele
-.   | 21 | ALL-IN |  |  
-.   | 28 | Dele | Val, Parveen | Emma Dele
-Jun | 4  | Michael | Jennifer, Debbie | Dele
-.   | 11 | Parveen | Val, Debbie | Dele	
-.   | 18 | Emma | Michael, Jennifer | Emma, Dele	 
-.   | 25 | Parveen | Val, Jennifer  | Dele		 
+.   | 23 | Michael | Val, Parveen | Dele	 
+.   | 30 | Parveen | Val, Jennifer | Dele	
+Aug | 6  | Emma | Jennifer, Michael | Dele
+.   | 13 | ALL-IN |  |  
+.   | 20 | Dele | Jennifer | Dele
+.   | 27 | Emma | Val | Emma Dele
+Sep | 3  | Parveen | Jennifer, Val | Dele
+.   | 10 | Michael | Val, Jennifer | Dele	
+.   | 17 | Emma | Michael, Parveen | Emma, Dele	 
+.   | 24 | ALL-IN |  |  	 
 
 ## Worship Sessions
 - Sunday 18th June 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-06-18.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-06-18.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-06-18.pptx)
@@ -60,6 +62,19 @@ Mar | 5  | Dele | Jennifer, Debbie | Dele
 .   | 12 | Michael | Val, Debbie | Emma, Dele	
 .   | 19 | Emma | Dele, Florence | Emma, Dele	 
 .   | 26 | Dele | Val, Debbie  | Michael	
+Apr | 2 | Michael | Jennifer, Val | Dele	
+.   | 9 | ALL-IN |  |  
+.   | 16 | Emma | Michael, Parveen | Emma, Dele
+.   | 23 | Michael | Jennifer, Debbie | Dele	 
+.   | 30 | Parveen | Val, Debbie | Dele	
+May | 7 | Dele | Jennifer, Michael | Dele
+.   | 14 | Emma | Val Michael | Emma, Dele
+.   | 21 | ALL-IN |  |  
+.   | 28 | Dele | Val, Parveen | Emma Dele
+Jun | 4  | Michael | Jennifer, Debbie | Dele
+.   | 11 | Parveen | Val, Debbie | Dele	
+.   | 18 | Emma | Michael, Jennifer | Emma, Dele	 
+.   | 25 | Parveen | Val, Jennifer  | Dele	
 
 ## 2022
 
