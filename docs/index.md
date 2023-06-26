@@ -8,7 +8,7 @@ Jun | 18 | Emma | Michael, Jennifer | Emma, Dele
 .   | 25 | Parveen | Val, Jennifer  | Worship Videos	
 Jul | 2  | Dele | Jennifer, Val | Dele	
 .   | 9  | ALL-IN |  |  
-.   | 16 | Emma | Michael, Parveen | Emma, Dele
+.   | 16 | Dele | Michael, Parveen | Emma, Dele
 .   | 23 | Michael | Val, Parveen | Dele	 
 .   | 30 | Parveen | Val, Jennifer | Dele	
 Aug | 6  | Emma | Jennifer, Michael | Dele
@@ -21,6 +21,7 @@ Sep | 3  | Parveen | Jennifer, Val | Dele
 .   | 24 | ALL-IN |  |  	 
 
 ## Worship Sessions
+- Sunday 2nd July 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-07-02.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-07-02.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-07-02.pptx)
 - Sunday 25th June 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-06-25.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-06-25.pdf)  - [PPT](https://github.com/hoo-are-ya/worship/releases/download/v0.0.2/video_2023-06-25.pptx)
 - Sunday 18th June 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-06-18.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-06-18.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-06-18.pptx)
 - Sunday 11th June 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-06-11.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-06-11.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-06-11.pptx)
