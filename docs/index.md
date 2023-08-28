@@ -4,23 +4,13 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Jun | 18 | Emma | Michael, Jennifer | Emma, Dele	 
-.   | 25 | Parveen | Val, Jennifer  | Worship Videos	
-Jul | 2  | Dele | Jennifer, Val | Dele	
-.   | 9  | ALL-IN |  |  
-.   | 16 | Dele | Michael, Parveen | Emma, Dele
-.   | 23 | Michael | Val, Parveen | Dele	 
-.   | 30 | Parveen | Val, Jennifer | Dele	
-Aug | 6  | Emma | Jennifer, Michael | Dele
-.   | 13 | ALL-IN |  |  
-.   | 20 | Dele | Jennifer | Dele
-.   | 27 | Emma | Val | Emma Dele
 Sep | 3  | Parveen | Jennifer, Val | Dele
 .   | 10 | Michael | Val, Jennifer | Dele	
 .   | 17 | Emma | Michael, Parveen | Emma, Dele	 
 .   | 24 | ALL-IN |  |  	 
 
 ## Worship Sessions
+- Sunday 3rd September 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-09-03.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-09-03.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-09-03.pptx)
 - Sunday 27th August 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-08-27.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-08-27.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-08-27.pptx)
 - Sunday 20th August 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-08-20.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-08-20.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-08-20.pptx)
 - Sunday 6th August 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-08-06.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-08-06.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-08-06.pptx)
@@ -84,6 +74,17 @@ Jun | 4  | Michael | Jennifer, Debbie | Dele
 .   | 11 | Parveen | Val, Debbie | Dele	
 .   | 18 | Emma | Michael, Jennifer | Emma, Dele	 
 .   | 25 | Parveen | Val, Jennifer  | Dele	
+Jun | 18 | Emma | Michael, Jennifer | Emma, Dele	 
+.   | 25 | Parveen | Val, Jennifer  | Worship Videos	
+Jul | 2  | Dele | Jennifer, Val | Dele	
+.   | 9  | ALL-IN |  |  
+.   | 16 | Dele | Michael, Parveen | Emma, Dele
+.   | 23 | Michael | Val, Parveen | Dele	 
+.   | 30 | Parveen | Val, Jennifer | Dele	
+Aug | 6  | Emma | Jennifer, Michael | Dele
+.   | 13 | ALL-IN |  |  
+.   | 20 | Dele | Jennifer | Dele
+.   | 27 | Emma | Val | Emma Dele
 
 ## 2022
 
