@@ -10,6 +10,7 @@ Sep | 3  | Parveen | Jennifer, Val | Dele
 .   | 24 | ALL-IN |  |  	 
 
 ## Worship Sessions
+- Sunday 17th September 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-09-17.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-09-17.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-09-17.pptx)
 - Sunday 10th September 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-09-10.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-09-10.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-09-10.pptx)
 - Sunday 3rd September 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-09-03.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-09-03.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-09-03.pptx)
 - Sunday 27th August 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-08-27.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-08-27.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-08-27.pptx)
