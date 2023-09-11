@@ -10,9 +10,9 @@ Sep | 3  | Parveen | Jennifer, Val | Dele
 .   | 24 | ALL-IN |  |  
 Oct | 1  | Michael | Parveen | Dele
 .   | 8  | Emma | Jennifer | Emma, Dele	
-.   | 15 | Parveen | - | Dele	 
-.   | 22 | Dele | Val | Dele	
-.   | 29 | Unplugged | - | -	 
+.   | 15 | Parveen | - | Dele	
+.   | 22 | Unplugged | - | -	 
+.   | 29 | Dele | Val | Dele	 
 Nov | 5  | ALL-IN |  | 
 .   | 12 | Emma | Michael  | Emma 
 .   | 19 | Parveen | Val | Dele	
