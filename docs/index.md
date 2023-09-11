@@ -7,7 +7,21 @@ Month | Date | Worship Leader | BVs | Music
 Sep | 3  | Parveen | Jennifer, Val | Dele
 .   | 10 | Michael | Val, Jennifer | Dele	
 .   | 17 | Emma | Michael, Parveen | Emma, Dele	 
-.   | 24 | ALL-IN |  |  	 
+.   | 24 | ALL-IN |  |  
+Oct | 1  | Michael | Parveen | Dele
+.   | 8  | Emma | Jennifer | Emma, Dele	
+.   | 15 | Parveen | - | Dele	 
+.   | 22 | Dele | Val | Dele	
+.   | 29 | Unplugged | - | -	 
+Nov | 5  | ALL-IN |  | 
+.   | 12 | Emma | Michael  | Emma 
+.   | 19 | Parveen | Val | Dele	
+.   | 26 | Dele | Jennifer | Dele	
+Dec | 3  | Emma | Michael | Emma, Dele	
+.   | 10 | ALL-IN |  |  	
+.   | 17 | Emma | Val | Emma, Dele	 
+.   | 24 | Parveen | Jennifer | Dele	
+.   | 31 | Florence | Val | Dele	 	 
 
 ## Worship Sessions
 - Sunday 17th September 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-09-17.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-09-17.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-09-17.pptx)
