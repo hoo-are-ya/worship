@@ -20,6 +20,7 @@ Dec | 3  | Emma | Michael | Emma, Dele
 .   | 31 | Florence | Val | Dele	 	 
 
 ## Worship Sessions
+- Sunday 8th October 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-10-08.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-10-08.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-10-08.pptx)
 - Sunday 1st October 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-10-01.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-10-01.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-10-01.pptx)
 - Sunday 17th September 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-09-17.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-09-17.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-09-17.pptx)
 - Sunday 10th September 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-09-10.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-09-10.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-09-10.pptx)
