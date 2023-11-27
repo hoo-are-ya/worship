@@ -4,8 +4,6 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Nov | 19 | Parveen | Val | Dele	
-.   | 26 | Dele | Jennifer | Dele	
 Dec | 3  | Emma | Michael | Emma, Dele	
 .   | 10 | ALL-IN |  |  	
 .   | 17 | Emma | Val | Emma, Dele	 
@@ -13,6 +11,7 @@ Dec | 3  | Emma | Michael | Emma, Dele
 .   | 31 | Florence | Val | Dele	 	 
 
 ## Worship Sessions
+- Sunday 3rd December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-03.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-03.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-03.pptx)
 - Sunday 26th November 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-11-26.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-11-26.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-11-26.pptx)
 - Sunday 19th November 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-11-19.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-11-19.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-11-19.pptx)
 - Sunday 12th November 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-11-12.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-11-12.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-11-12.pptx)
@@ -119,6 +118,8 @@ Oct | 1  | Michael | Parveen | Dele
 .   | 29 | Dele | Val | Dele	 
 Nov | 5  | ALL-IN |  | 
 .   | 12 | Emma | Michael  | Emma 
+.   | 19 | Parveen | Val | Dele	
+.   | 26 | Dele | Jennifer | Dele	
 
 
 ## 2022
