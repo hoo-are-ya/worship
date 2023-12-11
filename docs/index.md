@@ -9,7 +9,7 @@ Dec | 17 | Emma | Val | Emma, Dele
 .   | 31 | Florence | Val | Dele	 	 
 
 ## Worship Sessions
-- Sunday 17th December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-10.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-10.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-10.pptx)
+- Sunday 17th December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-17.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-17.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-17.pptx)
 - Sunday 3rd December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-03.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-03.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-03.pptx)
 - Sunday 26th November 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-11-26.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-11-26.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-11-26.pptx)
 - Sunday 19th November 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-11-19.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-11-19.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-11-19.pptx)
