@@ -8,14 +8,14 @@ Jan | 7  | ALL-IN |  |
 .   | 14 | Florence | Michael, Jenn | Dele	
 .   | 21 | Emma | Val, Parveen | Emma	 	 
 .   | 28 | NO WL |  | 
-Feb | 4  | Emma | Michael, Parveen | Emma
-.   | 11 | Michael | Jenn, Val | Worship Videos?
+Feb | 4  | Michael | Jenn, Val| Worship Videos?
+.   | 11 | Emma | Michael, Jenn | Emma
 .   | 18 | ALL-IN |  | 	
 .   | 25 | Parveen | Val, Jenn | Worship Videos?
 Mar | 3  | Emma | Jenn, Parveen | Emma
 .   | 10 | Florence | Michael, Val | Dele	
 .   | 17 | Michael | Val, Parveen | Dele	
-.   | 24 | Dele | Jenn | Dele	
+.   | 24 | Dele | Jenn, Val | Dele	
 .   | 31 | ALL-IN |  | 	
 
 ## Worship Sessions
