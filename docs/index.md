@@ -19,7 +19,7 @@ Mar | 3  | Emma | Jenn, Parveen | Emma
 .   | 31 | ALL-IN |  | 	
 
 ## Worship Sessions
-- Sunday 24th December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-24.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-24.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-24.pptx)
+- Sunday 14th January 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-01-14.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-01-14.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-01-14.pptx)
 
 
 # Rota History
@@ -124,7 +124,7 @@ Dec  | 4 | Michael | Jennifer, Florence | Dele
 ## Worship Sessions
 
 ### 2023
-
+- Sunday 24th December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-24.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-24.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-24.pptx)
 - Sunday 17th December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-17.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-17.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-17.pptx)
 - Sunday 3rd December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-03.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-03.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-03.pptx)
 - Sunday 26th November 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-11-26.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-11-26.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-11-26.pptx)
