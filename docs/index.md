@@ -4,9 +4,7 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Jan | 7  | ALL-IN |  | 	 
-.   | 14 | Florence | Michael, Jenn | Dele	
-.   | 21 | Emma | Val, Parveen | Emma	 	 
+Jan | 21 | Emma | Val, Parveen | Emma	 	 
 .   | 28 | NO WL |  | 
 Feb | 4  | Michael | Jenn, Val| Worship Videos?
 .   | 11 | Emma | Michael, Jenn | Emma
@@ -20,9 +18,17 @@ Mar | 3  | Emma | Jenn, Parveen | Emma
 
 ## Worship Sessions
 - Sunday 14th January 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-01-14.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-01-14.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-01-14.pptx)
+- Sunday 21st January 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-01-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-01-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-01-21.pptx)
 
 
 # Rota History
+
+## 2024
+
+Month | Date | Worship Leader | BVs | Music
+--- | --- | --- | --- | ---
+Jan | 7  | ALL-IN |  | 	 
+.   | 14 | Florence | Michael, Jenn | Dele	
 
 ## 2023
 
