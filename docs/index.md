@@ -24,7 +24,7 @@ Mar | 3  | Emma | Jenn, Parveen | Emma
 - Sunday 25th February 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-02-25.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-02-25.pdf)  - [PPT](https://github.com/hoo-are-ya/worship/releases/download/v0.0.7/video_2024-02-25.pptx)
 
 
-# Rota 4thory
+# Rota History
 
 ## 2024
 
@@ -34,7 +34,6 @@ Jan | 7  | ALL-IN |  |
 .   | 14 | Florence | Michael, Jenn | Dele	
 
 ## 2023
-- Sunday 21st January 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-01-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-01-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-01-21.pptx)
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
