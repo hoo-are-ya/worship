@@ -4,12 +4,7 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Jan | 21 | Emma | Val, Parveen | Emma	 	 
-.   | 28 | NO WL |  | 
-Feb | 4  | Michael | Jenn, Val| Worship Videos?
-.   | 11 | Emma | Michael, Jenn | Emma
-.   | 18 | ALL-IN |  | 	
-.   | 25 | Parveen | Val, Jenn | Worship Videos?
+Feb | 25 | Parveen | Val, Jenn | Worship Videos?
 Mar | 3  | Emma | Jenn, Parveen | Emma
 .   | 10 | Florence | Michael, Val | Dele	
 .   | 17 | Michael | Val, Parveen | Dele	
@@ -17,12 +12,8 @@ Mar | 3  | Emma | Jenn, Parveen | Emma
 .   | 31 | ALL-IN |  | 	
 
 ## Worship Sessions
-- Sunday 14th January 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-01-14.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-01-14.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-01-14.pptx)
-- Sunday 21st January 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-01-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-01-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-01-21.pptx)
-- Sunday 4th February 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-02-04.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-02-04.pdf)  - [PPT](https://github.com/hoo-are-ya/worship/releases/download/v0.0.6/video_2024-02-04.pptx)
-- Sunday 11th February 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-02-11.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-02-11.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-02-11.pptx)
 - Sunday 25th February 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-02-25.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-02-25.pdf)  - [PPT](https://github.com/hoo-are-ya/worship/releases/download/v0.0.7/video_2024-02-25.pptx)
-
+- Sunday 3rd March 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-03-03.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-03-03.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-03-03.pptx)
 
 # Rota History
 
@@ -32,6 +23,11 @@ Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
 Jan | 7  | ALL-IN |  | 	 
 .   | 14 | Florence | Michael, Jenn | Dele	
+.   | 21 | Emma | Val, Parveen | Emma	 	 
+.   | 28 | NO WL |  | 
+Feb | 4  | Michael | Jenn, Val| Worship Videos?
+.   | 11 | Emma | Michael, Jenn | Emma
+.   | 18 | ALL-IN |  | 	
 
 ## 2023
 
@@ -131,6 +127,11 @@ Dec  | 4 | Michael | Jennifer, Florence | Dele
      | 25 | XMAS |  | 	
 
 ## Worship Sessions
+### 2024
+- Sunday 14th January 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-01-14.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-01-14.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-01-14.pptx)
+- Sunday 21st January 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-01-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-01-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-01-21.pptx)
+- Sunday 4th February 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-02-04.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-02-04.pdf)  - [PPT](https://github.com/hoo-are-ya/worship/releases/download/v0.0.6/video_2024-02-04.pptx)
+- Sunday 11th February 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-02-11.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-02-11.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-02-11.pptx)
 
 ### 2023
 - Sunday 24th December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-24.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-24.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-24.pptx)
