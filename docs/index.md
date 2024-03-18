@@ -14,6 +14,7 @@ Mar | 3  | Emma | Jenn, Parveen | Emma
 - Sunday 3rd March 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-03-03.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-03-03.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-03-03.pptx)
 - Sunday 10th March 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-03-10.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-03-10.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-03-10.pptx)
 - Sunday 17th March 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-03-17.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-03-17.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-03-17.pptx)
+- Sunday 24th March 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-03-24.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-03-24.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-03-24.pptx)
 
 
 # Rota History
