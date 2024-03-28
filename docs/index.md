@@ -6,9 +6,9 @@ Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
 Apr | 7  | Michael | Parveen | Dele
 .   | 14 | Emma | Val, Jenn | Emma, Dele	
-.   | 21 | Michael | Val, Parveen | Dele	
+.   | 21 | Michael | Parveen | Dele	
 .   | 28 | Parveen | Jenn, Val | Dele	
-May | 5  | Florence | Jenn, Parveen | Dele
+May | 5  | Florence | Parveen | Dele
 .   | 12 | Michael | Michael, Val | Dele	
 .   | 19 | ALL-IN |  	
 .   | 26 | Florence | Michael, Jenn | Emma, Dele	
