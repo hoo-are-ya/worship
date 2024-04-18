@@ -19,8 +19,9 @@ Jun | 2  | Emma | Jenn, Val | Emma, Dele
 .   | 30 | ALL-IN |  
 
 ## Worship Sessions
-- Sunday 7th April 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-04-07.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-04-07.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-04-07.pptx)
+- Sunday 21st April 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-04-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-04-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-04-21.pptx)
 - Sunday 14th April 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-04-14.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-04-14.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-04-14.pptx)
+- Sunday 7th April 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-04-07.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-04-07.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-04-07.pptx)
 
 
 # Rota History
