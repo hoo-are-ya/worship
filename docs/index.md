@@ -19,6 +19,7 @@ Jun | 2  | Emma | Jenn, Val | Emma, Dele
 .   | 30 | ALL-IN |  
 
 ## Worship Sessions
+- Sunday 26th May 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-05-26.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-05-26.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-05-26.pptx)
 - Sunday 12th May 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-05-12.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-05-12.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-05-12.pptx)
 - Sunday 5th May 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-05-05.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-05-05.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-05-05.pptx)
 - Sunday 28th April 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-04-28.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-04-28.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-04-28.pptx)
