@@ -4,19 +4,19 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Apr | 7  | Michael | Parveen | Dele
-.   | 14 | Emma | Val, Jenn | Emma, Dele	
-.   | 21 | Michael | Parveen | Dele	
-.   | 28 | Parveen | Jenn, Val | Dele	
-May | 5  | Florence | Parveen | Dele
-.   | 12 | Michael | Michael, Val | Dele	
-.   | 19 | ALL-IN |  	
-.   | 26 | Florence | Michael, Jenn | Emma, Dele	
-Jun | 2  | Emma | Jenn, Val | Emma, Dele
-.   | 9  | Dele | Val, Jenn | Dele	
-.   | 16 | Florence | Jenn, Val | Dele	
-.   | 23 | Michael | Val, Jenn | Dele	
-.   | 30 | ALL-IN |  
+Jul | 7  | Dele | Val | Dele
+.   | 14 | Emma | Michael | Emma, Dele	
+.   | 21 | Dele | Val | Dele	
+.   | 28 | Florence | Jenn | Dele	
+Aug | 4  | ALL-IN |  	
+.   | 11 | Florence | Jenn | Dele	
+.   | 18 | Michael | Jenn | Dele		
+.   | 25 | Dele | Jenn | Dele	
+Sep | 1  | Dele | Val | Dele
+.   | 8  | Florence | Jenn | Dele	
+.   | 15 | ALL-IN |  	
+.   | 22 | Michael | Jenn | Dele	
+.   | 29 | Emma | Val | Emma, Dele 
 
 ## Worship Sessions
 - Sunday 23rd June 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-06-23.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-06-23.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-06-23.pptx)
@@ -44,6 +44,19 @@ Mar | 3  | Emma | Jenn, Parveen | Emma
 .   | 17 | Michael | Val, Parveen | Dele	
 .   | 24 | Dele | Jenn, Val | Dele	
 .   | 31 | ALL-IN |  | 
+Apr | 7  | Michael | Parveen | Dele
+.   | 14 | Emma | Val, Jenn | Emma, Dele	
+.   | 21 | Michael | Parveen | Dele	
+.   | 28 | Parveen | Jenn, Val | Dele	
+May | 5  | Florence | Parveen | Dele
+.   | 12 | Michael | Michael, Val | Dele	
+.   | 19 | ALL-IN |  	
+.   | 26 | Florence | Michael, Jenn | Emma, Dele	
+Jun | 2  | Emma | Jenn, Val | Emma, Dele
+.   | 9  | Dele | Val, Jenn | Dele	
+.   | 16 | Florence | Jenn, Val | Dele	
+.   | 23 | Michael | Val, Jenn | Dele	
+.   | 30 | ALL-IN | 
 
 ## 2023
 
