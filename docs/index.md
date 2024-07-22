@@ -19,6 +19,7 @@ Sep | 1  | Dele | Val | Dele
 .   | 29 | Emma | Val | Emma, Dele 
 
 ## Worship Sessions
+- Sunday 28th July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-28.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-28.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-28.pptx)
 - Sunday 21st July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-21.pptx)
 - Sunday 14th July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-14.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-14.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-14.pptx)
 - Sunday 7th July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-07.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-07.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-07.pptx)
