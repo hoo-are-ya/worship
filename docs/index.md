@@ -4,30 +4,22 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Jul | 7  | Dele | Val | Dele
-.   | 14 | Emma | Michael | Emma, Dele	
-.   | 21 | Dele | Val | Dele	
-.   | 28 | Florence | Jenn | Dele	
-Aug | 4  | ALL-IN |  	
-.   | 11 | Florence | Jenn | Dele	
-.   | 18 | Michael | Jenn | Dele		
-.   | 25 | Dele | Jenn | Dele	
-Sep | 1  | Dele | Val | Dele
-.   | 8  | Florence | Jenn | Dele	
-.   | 15 | ALL-IN |  	
-.   | 22 | Michael | Jenn | Dele	
-.   | 29 | Emma | Val | Emma, Dele 
+Oct | 6  | Michael | Val | Dele
+.   | 13 | Emma | Michael | Emma, Dele	
+.   | 20 | Dele | Jenn | Dele	
+.   | 27 | ALL-IN |  | 	
+Nov | 3  | Emma | Michael | Emma  	
+.   | 10 | Michael | Val | Dele	
+.   | 17 | Florence | Jenn | Dele		
+.   | 24 | Dele | Val | Dele	
+Dec | 1  | Emma | Michael | Dele	
+.   | 8  | ALL-IN | 
+.   | 15 | Dele | Val | Dele 	
+.   | 22 | Florence | Jenn | Dele	
+.   | 29 | No SERVICE |  |  
 
 ## Worship Sessions
-- Sunday 29th September 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-09-29.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-09-29.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-09-29.pptx)
-- Sunday 22nd September 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-09-22.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-09-22.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-09-22.pptx)
-- Sunday 8th September 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-09-08.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-09-08.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-09-08.pptx)
-- Sunday 1st September 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-09-01.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-09-01.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-09-01.pptx)
-- Sunday 11th August 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-08-11.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-08-11.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-08-11.pptx)
-- Sunday 28th July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-28.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-28.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-28.pptx)
-- Sunday 21st July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-21.pptx)
-- Sunday 14th July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-14.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-14.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-14.pptx)
-- Sunday 7th July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-07.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-07.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-07.pptx)
+- Sunday 6th October 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-10-06.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-10-06.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-10-06.pptx)
 
 
 # Rota History
@@ -62,6 +54,19 @@ Jun | 2  | Emma | Jenn, Val | Emma, Dele
 .   | 16 | Florence | Jenn, Val | Dele	
 .   | 23 | Michael | Val, Jenn | Dele	
 .   | 30 | ALL-IN | 
+Jul | 7  | Dele | Val | Dele
+.   | 14 | Emma | Michael | Emma, Dele	
+.   | 21 | Dele | Val | Dele	
+.   | 28 | Florence | Jenn | Dele	
+Aug | 4  | ALL-IN |  	
+.   | 11 | Florence | Jenn | Dele	
+.   | 18 | Michael | Jenn | Dele		
+.   | 25 | Dele | Jenn | Dele	
+Sep | 1  | Dele | Val | Dele
+.   | 8  | Florence | Jenn | Dele	
+.   | 15 | ALL-IN |  	
+.   | 22 | Michael | Jenn | Dele	
+.   | 29 | Emma | Val | Emma, Dele 
 
 ## 2023
 
@@ -182,6 +187,15 @@ Dec  | 4 | Michael | Jennifer, Florence | Dele
 - Sunday 16th June 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-06-16.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-06-16.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-06-16.pptx)
 - Sunday 9th June 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-06-09.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-06-09.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-06-09.pptx)
 - Sunday 2nd June 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-06-02.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-06-02.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-06-02.pptx)
+- Sunday 29th September 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-09-29.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-09-29.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-09-29.pptx)
+- Sunday 22nd September 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-09-22.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-09-22.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-09-22.pptx)
+- Sunday 8th September 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-09-08.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-09-08.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-09-08.pptx)
+- Sunday 1st September 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-09-01.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-09-01.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-09-01.pptx)
+- Sunday 11th August 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-08-11.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-08-11.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-08-11.pptx)
+- Sunday 28th July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-28.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-28.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-28.pptx)
+- Sunday 21st July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-21.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-21.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-21.pptx)
+- Sunday 14th July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-14.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-14.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-14.pptx)
+- Sunday 7th July 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-07-07.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-07-07.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-07-07.pptx)
 
 ### 2023
 - Sunday 24th December 2023 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2023-12-24.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2023-12-24.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2023-12-24.pptx)
