@@ -8,7 +8,7 @@ Oct | 6  | Michael | Val | Dele
 .   | 13 | Emma | Michael | Emma, Dele	
 .   | 20 | Dele | Jenn | Dele	
 .   | 27 | ALL-IN |  | 	
-Nov | 3  | Emma | Michael | Emma  	
+Nov | 3  | Emma | Michael | Emma, Dele  	
 .   | 10 | Michael | Val | Dele	
 .   | 17 | Florence | Jenn | Dele		
 .   | 24 | Dele | Val | Dele	
@@ -16,7 +16,7 @@ Dec | 1  | Emma | Michael | Dele
 .   | 8  | ALL-IN | 
 .   | 15 | Dele | Val | Dele 	
 .   | 22 | Florence | Jenn | Dele	
-.   | 29 | No SERVICE |  |  
+.   | 29 | No Service |  |  
 
 ## Worship Sessions
 - Sunday 6th October 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-10-06.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-10-06.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-10-06.pptx)
