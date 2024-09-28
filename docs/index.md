@@ -4,9 +4,9 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | --- | --- | --- | ---
-Oct | 6  | Michael | Val | Dele
+Oct | 6  | Michael | Jenn | Dele
 .   | 13 | Emma | Michael | Emma, Dele	
-.   | 20 | Dele | Jenn | Dele	
+.   | 20 | Dele | Val | Dele	
 .   | 27 | ALL-IN |  | 	
 Nov | 3  | Emma | Michael | Emma, Dele  	
 .   | 10 | Michael | Val | Dele	
