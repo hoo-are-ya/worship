@@ -20,6 +20,7 @@ Dec | 1  | Emma | Michael | Dele
 
 ## Worship Sessions
 - Sunday 6th October 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-10-06.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-10-06.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-10-06.pptx)
+- Sunday 29th September 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-09-29.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-09-29.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-09-29.pptx)
 
 
 # Rota History
