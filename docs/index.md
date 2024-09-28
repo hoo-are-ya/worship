@@ -9,9 +9,9 @@ Oct | 6  | Michael | Jenn | Dele
 .   | 20 | Dele | Val | Dele	
 .   | 27 | ALL-IN |  | 	
 Nov | 3  | Emma | Michael | Emma, Dele  	
-.   | 10 | Michael | Val | Dele	
-.   | 17 | Florence | Jenn | Dele		
-.   | 24 | Dele | Val | Dele	
+.   | 10 | Michael | Jenn | Dele	
+.   | 17 | Florence | Val | Dele		
+.   | 24 | Dele | Jenn | Dele	
 Dec | 1  | Emma | Michael | Dele	
 .   | 8  | ALL-IN | 
 .   | 15 | Dele | Val | Dele 	
