@@ -19,6 +19,7 @@ Dec | 1  | Emma | Michael | Dele
 .   | 29 | No Service |  |  
 
 ## Worship Sessions
+- Sunday 1st December 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-12-01.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-12-01.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-12-01.pptx)
 - Sunday 24th November 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-11-24.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-11-24.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-11-24.pptx)
 - Sunday 17th November 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-11-17.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-11-17.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-11-17.pptx)
 - Sunday 10th November 2024 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2024-11-10.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2024-11-10.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2024-11-10.pptx)
