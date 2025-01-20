@@ -19,6 +19,7 @@ Mar | 2  | Michael | Jen | Dele
 .   | 30 | Dele | Val |  Dele
 
 ## Worship Sessions
+- Sunday 26th January 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-01-26.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2025-01-26.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2025-01-26.pptx)
 - Sunday 19th January 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-01-19.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2025-01-19.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2025-01-19.pptx)
 - Sunday 5th January 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-01-05.pdf) - [Chords](https://hoo-are-ya.github.io/worship/chords_2025-01-05.pdf)  - [PPT](https://hoo-are-ya.github.io/worship/songs_2025-01-05.pptx)
 
