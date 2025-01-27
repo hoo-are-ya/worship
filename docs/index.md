@@ -28,9 +28,9 @@ Mar | 2  | Michael | Jen | Dele
 Song                  | Dele | Emma | Florence | Michael | Parveen  
 ---                   | ---  | ---  | ---      | ---     | ---
 Build My Life         | G    | C    |          |         |
-Great Big God         | E    |  C   |          |         |         
+Great Big God         | E    | C    |          |         |         
 Holy Forever		  | C    | F#   |          | D       |
 Servant King          | D    | C    |          |         |    
-The Lion and Lamb     | D    |  C   |          |         |    
+The Lion and Lamb     | D    | C    |          |         |    
 
 
