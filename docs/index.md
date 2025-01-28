@@ -29,21 +29,22 @@ Song                  | Dele | Emma | Florence | Michael | Parveen
 ---                   | ---  | ---  | ---      | ---     | ---
 Build My Life         | G    | C    |          |         |
 Cornerstone           | D    | A/B  |          |         |  
+Create In Me          | G    |      | E        |         |  
 Glorious Day          | D    | D    |          |         |  
 Great Big God         | E    | C    |          |         |         
-Great are You Lord    | D    | A    |          |         |  
-Holy Forever		  | C    | F#   |          | D       |
-Holy, holy,           | A    | A    |          |         |  
+Great Are You Lord    | D    | A    |          |         |  
+Hear I Am To Worship  | D    |      | D        |         |  
+Holy Forever		  | C    | F#   | F        | D       |
+Holy, Holy            | A    | A    |          |         |  
 Hosanna               | D    | D    |          |         |  
 King of Kings         | C    | C    |          |         |  
 Living Hope           | G    | G    |          |         |  
-Open the eyes         | D    | C    |          |         |  
+Make Room             | A    |      | D        |         |  
+Open The Eyes         | D    | C    | D        |         |   
 Our God saves         | D    | B    |          |         |  
-Raise a hallelujah    | C#   | C    |          |         |  
-Servant King          | D    | C    |          |         |    
-The Lion and Lamb     | D    | C    |          |         |    
-The Lion and the Lamb | B    | C    |          |         |  
-Waiting here for You  | Eb   | C    |          |         |  
-
-
-
+Quiet                 | D    |      | D        |         |  
+Raise A Hallelujah    | C#   | C    |          |         |  
+Servant King          | D    | C    |          |         |      
+The Lion And The Lamb | B    | C    |          |         |  
+Turn It Up            | E    |      | E        |         |  
+Waiting Here For You  | Eb   | C    |          |         |  
