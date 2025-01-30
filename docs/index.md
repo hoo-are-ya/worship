@@ -10,11 +10,11 @@ Feb | 2  | Florence | Michael | Michael, Dele
 .   | 9 | Michael | Val | Dele	
 .   | 16 | Emma | Jenn | Emma, Michael, Dele		
 .   | 23 | Florence | Val | Dele	
-Mar | 2  | Michael | Jen | Dele	
-.   | 9  | ALL-IN | 
+Mar | 2  | ALL-IN |  | 	
+.   | 9  | Dele | Val |  Dele 
 .   | 16 | Michael | Val | Dele 	
 .   | 23 | Emma | Jenn | Emma, Dele	
-.   | 30 | Dele | Val |  Dele
+.   | 30 | ALL-IN |  | 	
 
 # Worship Sessions
 - Sunday 2nd February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-02.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-02.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-02.pptx)
