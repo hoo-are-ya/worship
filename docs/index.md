@@ -17,6 +17,7 @@ Mar | 2  | ALL-IN |  |
 .   | 30 | ALL-IN |  | 	
 
 # Worship Sessions
+- Sunday 9th February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-09.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-09.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-09.pptx)
 - Sunday 2nd February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-02.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-02.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-02.pptx)
 - Sunday 26th January 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-01-26.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-01-26.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-01-26.pptx)
 - Sunday 19th January 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-01-19.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-01-19.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-01-19.pptx)
