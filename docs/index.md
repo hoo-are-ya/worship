@@ -1,13 +1,13 @@
 # Rota
 
 Month | Date | Worship Leader | BVs | Music
---- | --- | --- | --- | ---
+--- | ---| --- | --- | ---
 Jan | 5  | Dele | Val | Dele
 .   | 12 | ALL-IN |  | 	
 .   | 19 | Michael | Jenn | Dele	
 .   | 26 | Emma | Jenn | Emma, Dele
 Feb | 2  | Florence | Michael | Michael, Dele  	
-.   | 9 | Michael | Val | Dele	
+.   | 9  | Michael | Val | Dele	
 .   | 16 | Emma | Jenn | Emma, Michael, Dele		
 .   | 23 | Florence | Val | Dele	
 Mar | 2  | ALL-IN |  | 	
@@ -28,10 +28,11 @@ Mar | 2  | ALL-IN |  |
 
 Song                  | Dele | Emma | Florence | Michael | Parveen  
 ---                   | ---  | ---  | ---      | ---     | ---
-Build My Life         | G    | C    |          |         |
+Build My Life         | G    | C    |          |  F      |
 Cornerstone           | D    | A/B  |          |         |  
 Create In Me          | G    |      | E        |         |  
-Glorious Day          | D    | D    |          |         |  
+Firm Foundation       | D    |      |          | E       |  
+Glorious Day          | D    | D    |          | D       |  
 Great Big God         | E    | C    |          |         |         
 Great Are You Lord    | D    | A    |          |         |  
 Hear I Am To Worship  | D    |      | D        |         |  
@@ -46,6 +47,7 @@ Our God saves         | D    | B    |          |         |
 Quiet                 | D    |      | D        |         |  
 Raise A Hallelujah    | C#   | C    |          |         |  
 Servant King          | D    | C    |          |         |      
+Thanksgiving          | C    |      |          | C       | 
 The Lion And The Lamb | B    | C    |          |         |  
 Turn It Up            | E    |      | E        |         |  
 Waiting Here For You  | Eb   | C    |          |         |  
