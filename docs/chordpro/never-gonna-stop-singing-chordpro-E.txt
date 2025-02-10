@@ -1,0 +1,49 @@
+{title: Never Gonna Stop Singing}
+{artist: Matt Vaughan, Randy Jackson, Tom Smith}
+{key: E}
+{time: 4/4}
+{tempo: 112}
+{ccli_license: 33265}
+{ccli: 7054533}
+{copyright: 2015 Brand Vaughan Music | Capitol CMG Genesis | Evident Music Publishing | Jesus Culture Music | Songsmiff Publishing}
+{footer: For use solely with the SongSelect® Terms of Use.  All rights reserved. www.ccli.com}
+
+{comment: Verse 1}
+You [A]called   [E]out into [B]darkness   [C#m]
+You [A]reached   [E]down to [B]save us   [C#m]
+
+{comment: Pre-Chorus}
+You [A]conquered the [E]grave You crossed the divide 
+[B]Lost in our [C#m]sin You made us alive 
+[A]How can we [E]ever hold it inside 
+We [B]can't hold [C#m]back we're gonna [A]lift You 
+
+{comment: Chorus}
+[E]Higher higher [C#m7]hearts burning [A2]bright 
+Like a [E]fire fire [C#m7]voices u - [A2]nite 
+Make it [E]louder louder [C#m7]  we're never gonna [A2]stop 
+Sing - [E]ing     [C#m7]oo we're never gonna [A2]stop (To Chorus)
+Sing - [E]ing 
+
+{comment: Instrumental 1}
+[|] [E]           [|] [E]    [B]    [|] [C#m]          [|] [C#m]    [A]    [|] 
+
+{comment: Verse 2}
+[A]Set    [E]free no longer [B]bound in [C#m]chains 
+You [A]rescued   [E]me and [B]called me by [C#m]name
+
+{comment: Instrumental 2}
+[|] [E]         [|] [C#m7]    [A2]     [|] [E]         [|] [C#m7]    [A2]     [|] 
+
+{comment: Bridge}
+[E]  Every tribe every [C#m7]tongue every [A2]heart will sing 
+[E]  Every knee we will [C#m7]bow to the [A2]risen King 
+[E]  Lift Him up lift Him [C#m7]up we're never gonna [A2]stop 
+Sing - [E]ing     [C#m7]oo we're never gonna [A2]stop 
+
+
+CCLI Song # 7054533
+© 2015 Brand Vaughan Music | Capitol CMG Genesis | Evident Music Publishing | Jesus Culture Music | Songsmiff Publishing
+For use solely with the SongSelect® Terms of Use.  All rights reserved. www.ccli.com
+Note: Reproduction of this sheet music requires a CCLI Music Reproduction Licence.  Please report all copies.
+CCLI Licence No. 33265

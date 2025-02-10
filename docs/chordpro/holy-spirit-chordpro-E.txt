@@ -1,0 +1,60 @@
+{title: Holy Spirit}
+{artist: Bryan Torwalt, Katie Torwalt}
+{subtitle: (based on the recording by Bryan & Katie Torwalt)}
+{key: E}
+{time: 4/4}
+{tempo: 72}
+{ccli_license: 33265}
+{ccli: 6087919}
+{copyright: 2011 Capitol CMG Genesis | Jesus Culture Music}
+{footer: For use solely with the SongSelect® Terms of Use.  All rights reserved. www.ccli.com}
+
+{comment: Intro}
+[||:][E5]           [|][E5]           [|][Amaj7]       [|][Amaj7]       [:||]
+
+{comment: Verse 1}
+[E5]   There’s nothing worth more [E5] that will ever come close 
+[Amaj7] No thing can compare, [Amaj7] You’re our living hope 
+[E5]   Your Presence [Amaj7]
+
+{comment: Verse 2}
+[E5]   I’ve tasted and seen [E5] of the sweetest of loves 
+[Amaj7] Where my heart becomes free [Amaj7] and my shame is undone 
+[E5]  In Your Presence [Amaj7] Lord 
+
+{comment: Chorus 1a}
+[E]Holy Spirit, You are welcome here 
+Come [Amaj9]flood this place and fill the [F#m7]atmosphere 
+Your [E]glory God is what our hearts long for 
+To be [Amaj9]overcome by Your [F#m7]Presence Lord 
+
+{comment: Interlude 1}
+[E]        Your Presence  [Amaj7] Lord    [F#m7]    (To Verse 1)
+
+{comment: Interlude 2}
+[E]        Your Presence  [Amaj7] Lord       [F#m7]    Your Presence  
+[E] Oh God,  how we love Your Presence  [Amaj7]    [F#m7]       
+
+{comment: Bridge 1a}
+[E5] Let us become more aware of Your Presence 
+[E5] Let us experience the glory of Your goodness 
+
+{comment: Bridge 1b}
+[Amaj7] Let us be - [E/G#]come more a - [F#m7]ware of Your [E/G#]Presence 
+[Amaj7] Let us ex - [E/G#]perience the [F#m7]glory of Your [E/G#]goodness
+(REPEAT)
+
+[Amaj7]Lord
+
+{comment: Chorus 1b}
+[E]Holy Spirit, You are welcome here 
+Come [Amaj9]flood this place and fill the [F#m7]atmosphere 
+Your [E]glory God is what our hearts long for 
+To be [Amaj9]overcome by Your [F#m7]Presence Lord    [E5]
+
+
+CCLI Song # 6087919
+© 2011 Capitol CMG Genesis | Jesus Culture Music
+For use solely with the SongSelect® Terms of Use.  All rights reserved. www.ccli.com
+Note: Reproduction of this sheet music requires a CCLI Music Reproduction Licence.  Please report all copies.
+CCLI Licence No. 33265
