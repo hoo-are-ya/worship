@@ -17,6 +17,7 @@ Mar | 2  | ALL-IN |  |
 .   | 30 | ALL-IN |  | 	
 
 # Worship Sessions
+- Sunday 16th February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-16.pptx)
 - Sunday 9th February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-09.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-09.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-09.pptx)
 - Sunday 2nd February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-02.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-02.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-02.pptx)
 - Sunday 26th January 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-01-26.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-01-26.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-01-26.pptx)
@@ -33,21 +34,26 @@ Cornerstone           | D    | A/B  |          |         |
 Create In Me          | G    |      | E        |         |  
 Firm Foundation       | D    |      |          | E       |  
 Glorious Day          | D    | D    |          | D       |  
-Great Big God         | E    | C    |          |         |         
 Great Are You Lord    | D    | A    |          |         |  
+Great Big God         | E    | C    |          |         |         
 Hear I Am To Worship  | D    |      | D        |         |  
 Holy Forever		  | C    | F#   | F        | D       |
+Holy Spirit You Are...| E    | E    |          |         |  
 Holy, Holy            | A    | A    |          |         |  
 Hosanna               | D    | D    |          |         |  
+House of The Lord     | C    | C    |          |         |  
+How Great is Our God  | E    | E    |          |         |  
 King of Kings         | C    | C    |          |         |  
 Living Hope           | G    | G    |          |         |  
 Make Room             | A    |      | D        |         |  
+Never Gonna Stop...   | E    | E    |          |         |  
 Open The Eyes         | D    | C    | D        |         |   
 Our God saves         | D    | B    |          |         |  
 Quiet                 | D    |      | D        |         |  
 Raise A Hallelujah    | C#   | C    |          |         |  
 Servant King          | D    | C    |          |         |      
+Spirit Break Out      | E    | E    |          |         |  
 Thanksgiving          | C    |      |          | C       | 
 The Lion And The Lamb | B    | C    |          |         |  
 Turn It Up            | E    |      | E        |         |  
-Waiting Here For You  | Eb   | C    |          |         |  
+  
