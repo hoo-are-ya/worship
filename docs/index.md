@@ -17,6 +17,7 @@ Mar | 2  | ALL-IN |  |
 .   | 30 | ALL-IN |  | 	
 
 # Worship Sessions
+- Sunday 23rd February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-23.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-23.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-23.pptx)
 - Sunday 16th February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-16.pptx)
 - Sunday 9th February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-09.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-09.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-09.pptx)
 - Sunday 2nd February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-02.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-02.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-02.pptx)
@@ -29,6 +30,7 @@ Mar | 2  | ALL-IN |  |
 
 Song                  | Dele | Emma | Florence | Michael | Parveen  
 ---                   | ---  | ---  | ---      | ---     | ---
+An Army of Ordinary   | G    |      | E        |         | 
 Build My Life         | G    | C    |          |  F      |
 Cornerstone           | D    | A/B  |          |         |  
 Create In Me          | G    |      | E        |         |  
@@ -42,8 +44,10 @@ Holy Spirit You Are...| E    | E    |          |         |
 Holy, Holy            | A    | A    |          |         |  
 Hosanna               | D    | D    |          |         |  
 House of The Lord     | C    | C    |          |         |  
+How Good and How Plea | G    |      | E        |         |  
 How Great is Our God  | E    | E    |          |         |  
-King of Kings         | C    | C    |          |         |  
+Jesus At The Center   | G    |      | E        |         | 
+King of Kings         | C    | C    | C        |         |  
 Living Hope           | G    | G    |          |         |  
 Make Room             | A    |      | D        |         |  
 Never Gonna Stop...   | E    | E    |          |         |  
@@ -55,5 +59,6 @@ Servant King          | D    | C    |          |         |
 Spirit Break Out      | E    | E    |          |         |  
 Thanksgiving          | C    |      |          | C       | 
 The Lion And The Lamb | B    | C    |          |         |  
+This I believe        | C    |      | C        |         | 
 Turn It Up            | E    |      | E        |         |  
   
