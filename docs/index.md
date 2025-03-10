@@ -17,6 +17,7 @@ Mar | 2  | ALL-IN |  |
 .   | 30 | ALL-IN |  | 	
 
 # Worship Sessions
+- Sunday 16th March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-16.pptx)
 - Sunday 9th March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-09.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-09.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-09.pptx)
 - Sunday 2nd March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-02.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-02.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-02.pptx)
 - Sunday 23rd February 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-02-23.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-02-23.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-02-23.pptx)
@@ -30,8 +31,8 @@ Mar | 2  | ALL-IN |  |
 
 # Song Keys by Worship Leaders
 
-Song                  | Dele | Emma | Florence | Michael | Parveen  
----                   | ---  | ---  | ---      | ---     | ---
+Song                  | Dele | Emma | Florence | Michael |
+---                   | ---  | ---  | ---      | ---     |
 An Army of Ordinary   | G    |      | E        |         | 
 Build My Life         | G    | C    |          |  F      |
 Cornerstone           | D    | A/B  |          |         |  
@@ -44,22 +45,26 @@ Hear I Am To Worship  | D    |      | D        |         |
 Holy Forever		  | C    | F#   | F        | D       |
 Holy Spirit You Are...| E    | E    |          |         |  
 Holy, Holy            | A    | A    |          |         |  
-Hosanna               | D    | D    |          |         |  
-House of The Lord     | C    | C    |          |         |  
+Hosanna               | D    | D    |          |  D      |  
+House of The Lord     | C    | C    |          |  C      |  
 How Good and How Plea | G    |      | E        |         |  
 How Great is Our God  | E    | E    |          |         |  
 Jesus At The Center   | G    |      | E        |         | 
 King of Kings         | C    | C    | C        |         |  
+Lead Me To The Cross  | D    |      |          |         | 
 Living Hope           | G    | G    |          |         |  
 Make Room             | A    |      | D        |         |  
+Mighty To Save        | E    |      |          |         | 
 Never Gonna Stop...   | E    | E    |          |         |  
 Open The Eyes         | D    | C    | D        |         |   
 Our God saves         | D    | B    |          |         |  
+Praise Is Rising      | D    |      |          | C       | 
 Quiet                 | D    |      | D        |         |  
 Raise A Hallelujah    | C#   | C    |          |         |  
+Revelation Song       | D    |      |          | D       | 
 Servant King          | D    | C    |          |         |      
-Spirit Break Out      | E    | E    |          |         |  
-Thanksgiving          | C    |      |          | C       | 
+Spirit Break Out      | E    | E    |          | D       |  
+Thanksgiving          | A    |      |          | C       | 
 The Lion And The Lamb | B    | C    |          |         |  
 This I believe        | C    |      | C        |         | 
 Turn It Up            | E    |      | E        |         |  
