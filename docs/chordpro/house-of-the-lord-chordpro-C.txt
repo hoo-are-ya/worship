@@ -9,14 +9,16 @@
 {tempo: 86}  
 {time: 4/4}  
 
+{start_accomp}
+
 {comment: Intro}
-[||:] [C]      [C2]    [|] [C]      [Gsus]   [|] [F2]            [|] [F2]     [Gsus]   [:||] 
+[C:2][*IA]       [C2:2]    [C:2]      [Gsus:2] [F2]           [F2:2]     [*MA][Gsus:2]
 
 {comment: Verse 1}
 We [C]worship the God who was, we [C]worship the God who is 
 We [C]worship the God who [Am]ever - [G(4)]more [F2]will be 
 He [C]opened the prison doors, He parted the raging sea 
-My God, He [Am]holds the [G(4)]vic -  [F2]tory, yeah
+My God, He [Am]holds the [G(4)]vic -  [F2][*MB]tory, yeah
 
 {comment: Chorus 1a}
 [C] There’s joy in the house of the Lord 
@@ -27,7 +29,7 @@ Our God is surely [G]in  [F2]this place
 And we won’t be quiet, we shout out [F/G]Your praise  [(C)]
 
 {comment: Interlude}
-[C]    [C2]Oh, oh,  [C]oh, we shout [Gsus]out Your praise [F2]     [Gsus]
+[C]    [C2]Oh, oh,  [C]oh, we shout [Gsus]out Your praise [F2]     [Gsus][*MA]
 
 {comment: Verse 2}
 We [C]sing to the God who heals, we [C]sing to the God who saves 
@@ -55,8 +57,8 @@ And we won’t be quiet, we [N.C.]shout out Your praise (To Chorus 1a)
 There is joy in this house to - [C]day  [C2]
 [C]   We shout [Gsus]out Your praise
 [F2]   We shout [Gsus]out Your praise
-[|] [C]            [|] [Dm7]         [|] [Am]    [G]    [|] [F]            [|] 
 
+[*EA]
 
 
 CCLI Song # 7168995
