@@ -17,6 +17,7 @@ Mar | 2  | ALL-IN |  |
 .   | 30 | ALL-IN |  | 	
 
 # Worship Sessions
+- Sunday 23rd March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-23.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-23.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-23.pptx)
 - Sunday 16th March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-16.pptx)
 - Sunday 9th March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-09.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-09.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-09.pptx)
 - Sunday 2nd March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-02.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-02.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-02.pptx)
@@ -39,6 +40,7 @@ Cornerstone           | D    | A/B  |          |         |
 Create In Me          | G    |      | E        |         |  
 Firm Foundation       | D    |      |          | E       |  
 Glorious Day          | D    | D    |          | D       |  
+Goodness Of God       | Ab   | G    |          |         | 
 Great Are You Lord    | D    | A    |          |         |  
 Great Big God         | E    | C    |          |         |         
 Hear I Am To Worship  | D    |      | D        |         |  
@@ -46,7 +48,7 @@ Holy Forever		  | C    | F#   | F        | D       |
 Holy Spirit You Are...| E    | E    |          |         |  
 Holy, Holy            | A    | A    |          |         |  
 Hosanna               | D    | D    |          |  D      |  
-House of The Lord     | C    | C    |          |  C      |  
+House of The Lord     | C    | C    |          |  D      |  
 How Good and How Plea | G    |      | E        |         |  
 How Great is Our God  | E    | E    |          |         |  
 Jesus At The Center   | G    |      | E        |         | 
@@ -58,6 +60,7 @@ Mighty To Save        | E    |      |          |         |
 Never Gonna Stop...   | E    | E    |          |         |  
 Open The Eyes         | D    | C    | D        |         |   
 Our God saves         | D    | B    |          |         |  
+Praise                | A    | A    |          |         |  
 Praise Is Rising      | D    |      |          | C       | 
 Quiet                 | D    |      | D        |         |  
 Raise A Hallelujah    | C#   | C    |          |         |  
@@ -67,5 +70,8 @@ Spirit Break Out      | E    | E    |          | D       |
 Thanksgiving          | A    |      |          | C       | 
 The Lion And The Lamb | B    | C    |          |         |  
 This I believe        | C    |      | C        |         | 
+This Is Amazing Grace | C    | C    |          |         |  
 Turn It Up            | E    |      | E        |         |  
+Who You Say I Am      | A    | G    |          |         |  
+Worthy Of It All      | D    | G    |          |         |   
   
