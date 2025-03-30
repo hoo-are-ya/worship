@@ -2,21 +2,22 @@
 
 Month | Date | Worship Leader | BVs | Music
 --- | ---| --- | --- | ---
-Jan | 5  | Dele | Val | Dele
-.   | 12 | ALL-IN |  | 	
-.   | 19 | Michael | Jenn | Dele	
-.   | 26 | Emma | Jenn | Emma, Dele
-Feb | 2  | Florence | Michael | Michael, Dele  	
-.   | 9  | Michael | Val | Dele	
-.   | 16 | Emma | Jenn | Emma, Michael, Dele		
-.   | 23 | Florence | Val | Dele	
-Mar | 2  | ALL-IN |  | 	
-.   | 9  | Dele | Val |  Dele 
-.   | 16 | Michael | Val | Dele 	
-.   | 23 | Emma | Jenn | Emma, Dele	
-.   | 30 | ALL-IN |  | 	
+Apr | 6  | Dele | Val  | Dele
+.   | 13 | Emma | Jenn | Emma, Dele	
+.   | 20 |ALL-IN|      | 
+.   | 27 |      | Val  | 
+May | 4  |      | Jenn | 	
+.   | 11 | Emma | Val  | Dele	
+.   | 18 |      | Jenn | 
+.   | 25 |      | Val  | 
+Jun | 1  |      | Jenn | 	
+.   | 8  |ALL-IN|      |  
+.   | 15 |      | Jenn | 	
+.   | 22 |      | Val  | 
+.   | 29 |      | Val  | 	
 
 # Worship Sessions
+- Sunday 6th April 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-04-06.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-04-06.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-04-06.pptx)
 - Sunday 23rd March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-23.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-23.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-23.pptx)
 - Sunday 16th March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-16.pptx)
 - Sunday 9th March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-09.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-09.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-09.pptx)
