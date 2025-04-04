@@ -5,15 +5,15 @@ Month | Date | Worship Leader | BVs | Music
 Apr | 6  | Dele   | Val   | Dele
 .   | 13 | Emma   | Jenn  | Emma, Dele	
 .   | 20 |ALL-IN  |       | 
-.   | 27 |Michael | Val   | 
+.   | 27 |Michael | Val   | Dele
 May | 4  | Emma   | Jenn  | 	
-.   | 11 |Florence|Michael| Dele	
-.   | 18 |Michael | Jenn  | 
+.   | 11 |Florence|Michael| Dele, Michael	
+.   | 18 |Michael | Jenn  | Dele
 .   | 25 | VIDEOS |  Val  | 
 Jun | 1  | VIDEOS | Jenn  | 	
 .   | 8  |ALL-IN  |       |  
-.   | 15 |Florence| Jenn  | 	
-.   | 22 |Michael | Val   | 
+.   | 15 |Florence| Jenn  | Dele	
+.   | 22 |Michael | Val   | Dele
 .   | 29 |Florence| Val   | Dele
 
 # Worship Sessions
