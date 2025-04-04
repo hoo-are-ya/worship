@@ -1,20 +1,20 @@
 # Rota
 
 Month | Date | Worship Leader | BVs | Music
---- | ---| --- | --- | ---
-Apr | 6  | Dele | Val  | Dele
-.   | 13 | Emma | Jenn | Emma, Dele	
-.   | 20 |ALL-IN|      | 
-.   | 27 |      | Val  | 
-May | 4  |      | Jenn | 	
-.   | 11 | Emma | Val  | Dele	
-.   | 18 |      | Jenn | 
-.   | 25 |      | Val  | 
-Jun | 1  |      | Jenn | 	
-.   | 8  |ALL-IN|      |  
-.   | 15 |      | Jenn | 	
-.   | 22 |      | Val  | 
-.   | 29 |      | Val  | 	
+--- | ---| ---    | ---   | ---
+Apr | 6  | Dele   | Val   | Dele
+.   | 13 | Emma   | Jenn  | Emma, Dele	
+.   | 20 |ALL-IN  |       | 
+.   | 27 |Michael | Val   | 
+May | 4  | Emma   | Jenn  | 	
+.   | 11 |Florence|Michael| Dele	
+.   | 18 |Michael | Jenn  | 
+.   | 25 | VIDEOS |  Val  | 
+Jun | 1  | VIDEOS | Jenn  | 	
+.   | 8  |ALL-IN  |       |  
+.   | 15 |Florence| Jenn  | 	
+.   | 22 |Michael | Val   | 
+.   | 29 |Florence| Val   | Dele
 
 # Worship Sessions
 - Sunday 6th April 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-04-06.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-04-06.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-04-06.pptx)
