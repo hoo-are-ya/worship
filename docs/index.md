@@ -6,7 +6,7 @@ Apr | 6  | Dele   | Val   | Dele
 .   | 13 | Emma   | Jenn  | Emma, Dele	
 .   | 20 |ALL-IN  |       | 
 .   | 27 |Michael | Val   | Dele
-May | 4  | Emma   | Jenn  | 	
+May | 4  | Emma   | Jenn  | Emma, Dele	
 .   | 11 |Florence|Michael| Dele, Michael	
 .   | 18 |Michael | Jenn  | Dele
 .   | 25 | VIDEOS |  Val  | 
