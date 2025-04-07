@@ -17,6 +17,7 @@ Jun | 1  | VIDEOS | Jenn  |
 .   | 29 |Florence| Val   | Dele
 
 # Worship Sessions
+- Sunday 13th April 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-04-13.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-04-13.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-04-13.pptx)
 - Sunday 6th April 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-04-06.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-04-06.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-04-06.pptx)
 - Sunday 23rd March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-23.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-23.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-23.pptx)
 - Sunday 16th March 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-03-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-03-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-03-16.pptx)
@@ -39,8 +40,8 @@ An Army of Ordinary   | G    |      | E        |         |
 Build My Life         | G    | C    |          |  F      |
 Cornerstone           | D    | A/B  |          |         |  
 Create In Me          | G    |      | E        |         |  
-Firm Foundation       | D    |      |          | E       |  
-Glorious Day          | D    | D    |          | D       |  
+Firm Foundation       | D    | C    |          | E       |  
+Glorious Day          | D    | G    |          | D       |  
 Goodness Of God       | Ab   | G    |          |         | 
 Great Are You Lord    | D    | A    |          |         |  
 Great Big God         | E    | C    |          |         |         
@@ -52,6 +53,7 @@ Hosanna               | D    | D    |          |  D      |
 House of The Lord     | C    | C    |          |  D      |  
 How Good and How Plea | G    |      | E        |         |  
 How Great is Our God  | E    | E    |          |         |  
+How Great Thou Art    | G    | G    |          |         |  
 Jesus At The Center   | G    |      | E        |         | 
 King of Kings         | C    | C    | C        |         |  
 Lead Me To The Cross  | D    |      |          |         | 
