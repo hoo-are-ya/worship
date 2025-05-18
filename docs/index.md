@@ -17,6 +17,8 @@ Jun   | 1    | VIDEOS   | Jenn  |
 .     | 29   | Florence | Val   | Dele
 
 # Worship Sessions
+- Sunday 1st June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-01.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-01.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pptx)
+- Sunday 25th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-25.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-25.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-25.pptx)
 - Sunday 18th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-18.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pptx)
 - Sunday 11th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-11.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-11.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-11.pptx)
 - Sunday 4th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-04.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-04.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-04.pptx)
