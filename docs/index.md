@@ -1,23 +1,24 @@
 # Rota
 
-Month | Date | Leader   | BVs   | Music
----   | ---  | ---      | ---   | ---
-Apr   | 6    | Dele     | Val   | Dele
-.     | 13   | Emma     | Jenn  | Emma, Dele	
-.     | 20   | ALL-IN   |       | 
-.     | 27   | Michael  | Val   | Dele
-May   | 4    | Emma     | Jenn  | Emma, Dele	
-.     | 11   | Florence |Michael| Dele, Michael	
-.     | 18   | Michael  | Jenn  | Dele
-.     | 25   | VIDEOS   |  Val  | 
-Jun   | 1    | VIDEOS   | Jenn  | 	
-.     | 8    | ALL-IN   |       |  
-.     | 15   | Florence | Jenn  | Dele	
-.     | 22   | Michael  | Val   | Dele
-.     | 29   | Florence | Val   | Dele
+Month | Date | Leader   | BVs      | Music
+---   | ---  | ---      | ---      | ---
+Apr   | 6    | Dele     | Val      | Dele
+.     | 13   | Emma     | Jenn     | Emma, Dele	
+.     | 20   | ALL-IN   |          | 
+.     | 27   | Michael  | Val      | Dele
+May   | 4    | Emma     | Jenn     | Emma, Dele	
+.     | 11   | Florence | Michael  | Dele, Michael	
+.     | 18   | Michael  | Jenn     | Dele
+.     | 25   | VIDEOS   | Val      | 
+Jun   | 1    | VIDEOS   | Jenn     | 	
+.     | 8    | Dele     | Florence | Dele
+.     | 15   | ALL-IN   |          | 
+.     | 22   | Michael  | Val      | Dele
+.     | 29   | Florence | Val      | Dele
 
 # Worship Sessions
-- Sunday 1st June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-01.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-01.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pptx)
+- Sunday 8th June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-08.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-08.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-06-08.pptx)
+- Sunday 1st June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-01.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-01.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-06-01.pptx)
 - Sunday 25th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-25.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-25.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-25.pptx)
 - Sunday 18th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-18.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pptx)
 - Sunday 11th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-11.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-11.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-11.pptx)
