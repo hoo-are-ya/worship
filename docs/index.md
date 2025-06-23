@@ -17,13 +17,11 @@ Jun   | 1    | VIDEOS   | Jenn     |
 .     | 29   | Florence | Val      | Dele
 
 # Worship Sessions
+- Sunday 29th June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-29.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-29.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-06-29.pptx)
+- Sunday 22nd June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-22.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-22.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-06-22.pptx)
 - Sunday 15th June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-15.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-15.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-06-15.pptx)
 - Sunday 8th June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-08.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-08.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-06-08.pptx)
 - Sunday 1st June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-01.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-01.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-06-01.pptx)
-- Sunday 25th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-25.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-25.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-25.pptx)
-- Sunday 18th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-18.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pptx)
-- Sunday 11th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-11.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-11.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-11.pptx)
-- Sunday 4th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-04.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-04.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-04.pptx)
 
 
 # Song Keys by Worship Leaders
@@ -76,6 +74,10 @@ Worthy Of It All      | D    | G    |          |         |
 Worthy Is Your Name   | C    |      |          | D       |  
   
 # This Year
+- Sunday 25th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-25.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-25.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-25.pptx)
+- Sunday 18th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-18.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-18.pptx)
+- Sunday 11th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-11.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-11.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-11.pptx)
+- Sunday 4th May 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-05-04.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-05-04.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-05-04.pptx)
 - Sunday 27th April 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-04-27.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-04-27.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-04-27.pptx)
 - Sunday 20th April 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-04-20.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-04-20.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-04-20.pptx)
 - Sunday 13th April 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-04-13.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-04-13.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-04-13.pptx)
