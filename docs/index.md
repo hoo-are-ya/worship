@@ -10,7 +10,7 @@ Aug   | 3    | Michael  | Val      | Michael
 .     | 10   | Dele     | Jenn     | Dele	
 .     | 17   | Florence | Debbie   | Dele
 .     | 24   | Dele     | Val      | Dele
-.     | 31   | Dele     | Jenn     | Dele
+.     | 31   | Florence | Jenn     | Dele
 Sep   | 7    | ALL-IN   |          | 	
 .     | 14   | Emma     | Val      | Emma, Dele
 .     | 21   | Michael  | Jenn     | Dele
