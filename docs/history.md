@@ -1,3 +1,20 @@
+## 2025
+Month | Date | Worship Leader | BVs | Music
+--- | --- | --- | --- | ---
+Apr   | 6    | Dele     | Val      | Dele
+.     | 13   | Emma     | Jenn     | Emma, Dele	
+.     | 20   | ALL-IN   |          | 
+.     | 27   | Michael  | Val      | Dele
+May   | 4    | Emma     | Jenn     | Emma, Dele	
+.     | 11   | Florence | Michael  | Dele, Michael	
+.     | 18   | Michael  | Jenn     | Dele
+.     | 25   | VIDEOS   | Val      | 
+Jun   | 1    | VIDEOS   | Jenn     | 	
+.     | 8    | Dele     | Florence | Dele
+.     | 15   | ALL-IN   |          | 
+.     | 22   | Michael  | Val      | Dele
+.     | 29   | Florence | Val      | Dele
+
 ## 2024
 
 Month | Date | Worship Leader | BVs | Music

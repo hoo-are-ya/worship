@@ -2,19 +2,19 @@
 
 Month | Date | Leader   | BVs      | Music
 ---   | ---  | ---      | ---      | ---
-Apr   | 6    | Dele     | Val      | Dele
-.     | 13   | Emma     | Jenn     | Emma, Dele	
+July  | 6    | ALL-IN   |          | 
+.     | 13   | Michael  | Jenn     | Dele	
 .     | 20   | ALL-IN   |          | 
-.     | 27   | Michael  | Val      | Dele
-May   | 4    | Emma     | Jenn     | Emma, Dele	
-.     | 11   | Florence | Michael  | Dele, Michael	
-.     | 18   | Michael  | Jenn     | Dele
-.     | 25   | VIDEOS   | Val      | 
-Jun   | 1    | VIDEOS   | Jenn     | 	
-.     | 8    | Dele     | Florence | Dele
-.     | 15   | ALL-IN   |          | 
-.     | 22   | Michael  | Val      | Dele
-.     | 29   | Florence | Val      | Dele
+.     | 27   | VIDEOS   | Debbie   | 
+Aug   | 3    | Michael  | Val      | Michael	
+.     | 10   | Dele     | Jenn     | Dele	
+.     | 17   | Florence | Debbie   | Dele
+.     | 24   | Dele     | Val      | Dele
+.     | 31   | Dele     | Jenn     | Dele
+Sep   | 7    | ALL-IN   |          | 	
+.     | 14   | Emma     | Val      | Emma, Dele
+.     | 21   | Michael  | Jenn     | Dele
+.     | 28   | Emma     | Debbie   | Emma, Dele
 
 # Worship Sessions
 - Sunday 29th June 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-06-29.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-06-29.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-06-29.pptx)
