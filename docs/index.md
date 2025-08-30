@@ -17,6 +17,7 @@ Sep   | 7    | ALL-IN   |          |
 .     | 28   | Emma     | Debbie   | Emma, Dele
 
 # Worship Sessions
+- Sunday 31st August 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-08-31.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-08-31.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-08-31.pptx)
 - Sunday 24th August 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-08-24.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-08-24.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-08-24.pptx)
 - Sunday 17th August 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-08-17.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-08-17.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-08-17.pptx)
 - Sunday 10th August 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-08-10.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-08-10.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-08-10.pptx)
