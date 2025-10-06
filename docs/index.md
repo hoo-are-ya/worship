@@ -18,6 +18,7 @@ Dec   | 7    | Parveen  | Michael  |
 
 # Worship Sessions
 - Sunday 5th October 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-10-05.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-10-05.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-10-05.pptx)
+- Sunday 12th October 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-10-12.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-10-12.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-10-12.pptx)
 
 
 # Song Keys by Worship Leaders
