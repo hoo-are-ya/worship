@@ -11,12 +11,13 @@ Nov   | 2    | Michael  | Florence | Dele
 .     | 16   | Florence | Jen      | Michael, Dele		
 .     | 23   | Emma     | Val      | Emma	
 .     | 30   | Michael  |          | Emma	
-Dec   | 7    | Parveen  | Michael  |
+Dec   | 7    | Parveen  | Michael  | Dele
 .     | 14   | ALL-IN   |          |  	
 .     | 21   | Emma     | Jen      | Emma, Dele 	
 .     | 28   | HOLS     |          | 
 
 # Worship Sessions
+- Sunday 7th December 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-12-07.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-12-07.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-12-07.pptx)
 - Sunday 30th November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-30.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-30.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-30.pptx)
 - Sunday 23rd November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-23.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-23.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-23.pptx)
 - Sunday 16th November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-16.pptx)
