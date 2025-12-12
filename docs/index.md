@@ -17,6 +17,7 @@ Dec   | 7    | Parveen  | Michael  | Dele
 .     | 28   | HOLS     |          | 
 
 # Worship Sessions
+- Sunday 14th December 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-12-14.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-12-14.docx)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-12-14.pptx)
 - Sunday 7th December 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-12-07.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-12-07.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-12-07.pptx)
 - Sunday 30th November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-30.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-30.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-30.pptx)
 - Sunday 23rd November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-23.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-23.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-23.pptx)
