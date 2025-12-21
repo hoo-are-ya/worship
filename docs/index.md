@@ -2,31 +2,10 @@
 
 Month | Date | Leader   | BVs      | Music
 ---   | ---  | ---      | ---      | ---
-Oct   | 5    | Florence | Michael  | Dele
-.     | 12   | Emma     |  Jen     | Michael, Dele	
-.     | 19   | Parveen  |  Val     | Dele	
-.     | 26   | ALL-IN   |          | 	
-Nov   | 2    | Michael  | Florence | Dele  	
-.     | 9    | Dele     | Val      | Dele	
-.     | 16   | Florence | Jen      | Michael, Dele		
-.     | 23   | Emma     | Val      | Emma	
-.     | 30   | Michael  |          | Emma	
-Dec   | 7    | Parveen  | Michael  | Dele
-.     | 14   | ALL-IN   |          |  	
-.     | 21   | Emma     | Jen      | Emma, Dele 	
-.     | 28   | HOLS     |          | 
+Dec   | 31   | Dele     |          | 
 
 # Worship Sessions
-- Sunday 21st December 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-12-21.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-12-21.docx)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-12-21.pptx)
-- Sunday 7th December 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-12-07.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-12-07.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-12-07.pptx)
-- Sunday 30th November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-30.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-30.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-30.pptx)
-- Sunday 23rd November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-23.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-23.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-23.pptx)
-- Sunday 16th November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-16.pptx)
-- Sunday 9th November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-09.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-09.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-09.pptx)
-- Sunday 2nd November 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-11-02.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-11-02.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-11-02.pptx)
-- Sunday 19th October 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-10-19.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-10-19.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-10-19.pptx)
-- Sunday 12th October 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-10-12.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-10-12.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-10-12.pptx)
-- Sunday 5th October 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-10-05.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-10-05.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-10-05.pptx)
+- Sunday 31st December 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-12-31.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-12-31.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-12-31.pptx)
 
 
 # Song Keys by Worship Leaders
