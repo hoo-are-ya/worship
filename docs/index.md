@@ -4,15 +4,15 @@ Month | Date | Leader   | BVs      | Music
 ---   | ---  | ---      | ---      | ---
 Jan   | 4    | Emma     | Jenn     | Emma, Dele
 ..    | 11   | ALL-IN   |          |
-..    | 18   | Parv/Flo | Val      | Dele
+..    | 18   | Florence | Val      | Dele
 ..    | 25   | Michael  | Debbie   | Michael, Dele
-Feb   | 1    | Parv/Flo | Jenn     | Dele
+Feb   | 1    | Parveen  | Jenn     | Dele
 ..    | 8    | Emma     | Val      | Emma, Michael, Dele, Caleb?
 ..    | 15   | Michael  | Debbie   | Michael, Dele
 ..    | 22   | Dele     | Val      | Dele
-Mar   | 1    | Parv/Flo | Debbie   | Dele
+Mar   | 1    | Florence | Debbie   | Dele
 ..    | 8    | Michael  | Jenn     | Michael, Emma, Dele, Caleb?
-..    | 15   | Parv/Flo | Debbie   | Dele
+..    | 15   | Parveen  | Debbie   | Dele
 ..    | 22   | Emma     | Jenn     | Emma, Michael, Dele
 ..    | 29   | Dele     | Val      | Dele
 
