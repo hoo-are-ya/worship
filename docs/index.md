@@ -2,10 +2,22 @@
 
 Month | Date | Leader   | BVs      | Music
 ---   | ---  | ---      | ---      | ---
-Dec   | 31   | Dele     |          | 
+Jan   | 4    | Emma     | Jenn     | Emma, Dele
+..    | 11   | ALL-IN   |          |
+..    | 18   | Parv/Flo | Val      | Dele
+..    | 25   | Michael  | Debbie   | Michael, Dele
+Feb   | 1    | Parv/Flo | Jenn     | Dele
+..    | 8    | Emma     | Val      | Emma, Michael, Dele, Caleb?
+..    | 15   | Michael  | Debbie   | Michael, Dele
+..    | 22   | Dele     | Val      | Dele
+Mar   | 1    | Parv/Flo | Debbie   | Dele
+..    | 8    | Michael  | Jenn     | Michael, Emma, Dele, Caleb?
+..    | 15   | Parv/Flo | Debbie   | Dele
+..    | 22   | Emma     | Jenn     | Emma, Michael, Dele
+..    | 29   | Dele     | Val      | Dele
 
 # Worship Sessions
-- Sunday 31st December 2025 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2025-12-31.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2025-12-31.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2025-12-31.pptx)
+- Sunday 4th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-04.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-04.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-04.pptx)
 
 
 # Song Keys by Worship Leaders
