@@ -17,6 +17,7 @@ Mar   | 1    | Florence | Debbie   | Dele
 ..    | 29   | Dele     | Val      | Dele
 
 # Worship Sessions
+- Sunday 25th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-25.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-25.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-25.pptx)
 - Sunday 18th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-18.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-18.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-18.pptx)
 - Sunday 4th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-04.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-04.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-04.pptx)
 
@@ -27,13 +28,13 @@ Song                  | Orig | Emma | Florence | Michael |
 ---                   | ---  | ---  | ---      | ---     |
 An Army of Ordinary   | G    |      | E        |         | 
 Build My Life         | G    | C    |          |  F/D    |
-Bless God             | A    |      | D        |   E     |
+Bless God             | A    |      | C#       |   E     |
 Cornerstone           | D    | A/B  |          |  D      |  
 Create In Me          | G    |      | E        |         |  
 Firm Foundation       | D    | C    |          | E       |  
 Glorious Day          | D    | G    |          | D       |  
 God Is for Us         | Eb   |      | G        |         | 
-Goodness Of God       | Ab   | G    |          |         | 
+Goodness Of God       | Ab   | G    | G#       |         | 
 Great Are You Lord    | D    | A    |          |         |  
 Great Big God         | E    | C    |          |         |         
 Hear I Am To Worship  | D    |      | D        |         |  
