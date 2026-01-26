@@ -17,6 +17,7 @@ Mar   | 1    | Florence | Debbie   | Dele
 ..    | 29   | Dele     | Val      | Dele
 
 # Worship Sessions
+- Sunday 1st February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-01.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-01.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-01.pptx)
 - Sunday 25th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-25.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-25.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-25.pptx)
 - Sunday 18th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-18.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-18.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-18.pptx)
 - Sunday 4th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-04.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-04.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-04.pptx)
@@ -27,6 +28,7 @@ Mar   | 1    | Florence | Debbie   | Dele
 Song                  | Orig | Emma | Florence | Michael |
 ---                   | ---  | ---  | ---      | ---     |
 An Army of Ordinary   | G    |      | E        |         | 
+As The Deer           |      |      |          |  C      | 
 Build My Life         | G    | C    |          |  F/D    |
 Bless God             | A    |      | C#       |   E     |
 Cornerstone           | D    | A/B  |          |  D      |  
@@ -47,6 +49,7 @@ How Good and How Plea | G    |      | E        |         |
 How Great is Our God  | E    | E    |          |         |  
 How Great Thou Art    | G    | G    |          |         |  
 I Thank God           | D    | D    |          |         | 
+I Love You(To My King)|      |      |          |  D      | 
 Jesus At The Center   | G    |      | E        |         | 
 King of Kings         | C    | C    | C        |         |  
 Lead Me To The Cross  | D    |      |          |         | 
@@ -71,6 +74,6 @@ This I believe        | C    |      | C        |         |
 This Is Amazing Grace | C    | C    |          |         |  
 Turn It Up            | E    | D    | E        |         |  
 Who You Say I Am      | A    | G    |          |         |  
-Worthy Of It All      | D    | G    |          |         |   
+Worthy Of It All      | D    | G    |          | C       |   
 Worthy Is Your Name   | C    |      |          | D       |  
   
