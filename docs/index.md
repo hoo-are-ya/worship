@@ -17,6 +17,7 @@ Mar   | 1    | Florence | Debbie   | Dele
 ..    | 29   | Dele     | Val      | Dele
 
 # Worship Sessions
+- Sunday 22nd February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-22.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-22.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-22.pptx)
 - Sunday 15th February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-15.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-15.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-15.pptx)
 - Sunday 8th February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-08.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-08.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-08.pptx)
 - Sunday 1st February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-01.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-01.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-01.pptx)
@@ -30,10 +31,10 @@ Mar   | 1    | Florence | Debbie   | Dele
 Song                  | Orig | Emma | Florence | Michael |
 ---                   | ---  | ---  | ---      | ---     |
 An Army of Ordinary   | G    |      | E        |         | 
-As The Deer           |      |      |          |  C      | 
+Ancient of Days       |      |      |          |  C      | 
 Build My Life         | G    | C    |          |  F/D    |
 Bless God             | A    |      | C#       |   E     |
-Cornerstone           | D    | A/B  |          |  D      |  
+Come now is the time  | D    |      |          |  D      |  
 Create In Me          | G    |      | E        |         |  
 Firm Foundation       | D    | C    |          | E       |  
 Glorious Day          | D    | G    |          | D       |  
@@ -55,7 +56,7 @@ I Love You(To My King)|      |      |          |  D      |
 Jesus At The Center   | G    |      | E        |         | 
 King of Kings         | C    | C    | C        |         |  
 Lead Me To The Cross  | D    |      |          |         | 
-Living Hope           | G    | G    |          |         |  
+Living Hope           | G    | G    |          |  G      |  
 Make Room             | A    |      | D        |         |  
 Mighty To Save        | E    |      |          |         | 
 My Redeemer lives     | E    |      |          | E       | 
@@ -73,7 +74,8 @@ Spirit Break Out      | E    | E    |          | D       |
 Thanksgiving          | A    | D    |          | C       | 
 The Lion And The Lamb | B    | C    |          |         |  
 This I believe        | C    |      | C        |         | 
-This Is Amazing Grace | C    | C    |          |         |  
+This Is Amazing Grace | C    | C    |          |         |
+This Is the Air       | A    |      |          |  C      |  
 Turn It Up            | E    | D    | E        |         |  
 Who You Say I Am      | A    | G    |          |         |  
 Worthy Of It All      | D    | G    |          | C       |   
