@@ -31,12 +31,14 @@ Mar   | 1    | Florence | Debbie   | Dele
 
 Song                  | Orig | Emma | Florence | Michael |
 ---                   | ---  | ---  | ---      | ---     |
+All Hail King Jesus   | E    |      | D        |         |
 An Army of Ordinary   | G    |      | E        |         | 
 Ancient of Days       |      |      |          |  C      | 
 Build My Life         | G    | C    |          |  F/D    |
 Bless God             | A    |      | C#       |   E     |
 Come now is the time  | D    |      |          |  D      |  
 Create In Me          | G    |      | E        |         |  
+Endless Praise        | F#   |      |          |         |
 Firm Foundation       | D    | C    |          | E       |  
 Glorious Day          | D    | G    |          | D       |  
 God Is for Us         | Eb   |      | G        |         | 
@@ -56,13 +58,15 @@ I Thank God           | D    | D    |          |         |
 I Love You(To My King)|      |      |          |  D      | 
 Jesus At The Center   | G    |      | E        |         | 
 King of Kings         | C    | C    | C        |         |  
+King of Kings, Majes  | A    |      | G        |         |
 Lead Me To The Cross  | D    |      |          |         | 
-Living Hope           | G    | G    |          |  G      |  
+Living Hope           | G    | G    | G        |  G      |  
 Make Room             | A    |      | D        |         |  
 Mighty To Save        | E    |      |          |         | 
 My Redeemer lives     | E    |      |          | E       | 
 Never Gonna Stop...   | E    | E    |          |         |  
 Nothing is Impossible | C    |      |          | D       |  
+O Come to the Altar   | D    | D    | D        |         | 
 Open The Eyes         | D    | C    | D        |         |   
 Our God saves         | D    | B    |          |         |  
 Praise                | A    | A    |          |         |  
