@@ -7,13 +7,13 @@ Jan   | 4    | Emma     | Jenn     | Emma, Dele
 ..    | 18   | Florence | Val      | Dele
 ..    | 25   | Michael  | Debbie   | Michael, Dele
 Feb   | 1    | Parveen  | Jenn     | Dele
-..    | 8    | Emma     | Val      | Emma, Michael, Dele, Caleb?
+..    | 8    | Emma     | Val      | Emma, Michael, Dele
 ..    | 15   | Michael  | Debbie   | Michael, Dele
 ..    | 22   | Dele     | Val      | Dele
 Mar   | 1    | Florence | Debbie   | Dele
-..    | 8    | Michael  | Jenn     | Michael, Emma, Dele, Caleb?
-..    | 15   | Parveen  | Debbie   | Dele
-..    | 22   | Emma     | Jenn     | Emma, Michael, Dele
+..    | 8    | Michael  | Jenn     | Michael, Emma, Dele
+..    | 15   | ALL-IN   |          |
+..    | 22   | Parveen  |          | VIDEOS
 ..    | 29   | Dele     | Val      | Dele
 
 # Worship Sessions
