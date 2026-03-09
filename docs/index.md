@@ -17,6 +17,7 @@ Mar   | 1    | Florence | Debbie   | Dele
 ..    | 29   | Dele     | Val      | Dele
 
 # Worship Sessions
+- Sunday 22nd March 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-03-22.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-03-22.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-03-22.pptx)
 - Sunday 8th March 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-03-08.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-03-08.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-03-08.pptx)
 - Sunday 1st March 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-03-01.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-03-01.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-03-01.pptx)
 - Sunday 22nd February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-22.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-22.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-22.pptx)
