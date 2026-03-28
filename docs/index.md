@@ -2,32 +2,23 @@
 
 Month | Date | Leader   | BVs      | Music
 ---   | ---  | ---      | ---      | ---
-Jan   | 4    | Emma     | Jenn     | Emma, Dele
-..    | 11   | ALL-IN   |          |
-..    | 18   | Florence | Val      | Dele
-..    | 25   | Michael  | Debbie   | Michael, Dele
-Feb   | 1    | Parveen  | Jenn     | Dele
-..    | 8    | Emma     | Val      | Emma, Michael, Dele
-..    | 15   | Michael  | Debbie   | Michael, Dele
-..    | 22   | Dele     | Val      | Dele
-Mar   | 1    | Florence | Debbie   | Dele
-..    | 8    | Michael  | Jenn     | Michael, Emma, Dele
-..    | 15   | ALL-IN   |          |
-..    | 22   | Parveen  |          | VIDEOS
-..    | 29   | Dele     | Val      | Dele
+April | 5    | Emma     | Michael  | Emma, Dele
+..    | 12   | Michael  | Debbie   | Dele
+..    | 19   | Dele     | Val      | Dele
+..    | 26   | Michael  | Debbie   | Dele, Michael
+May   | 3    | Parveen  | Jenn     | Dele
+..    | 10   | Michael  | Val      | Dele
+..    | 17   | Florence | Jenn     | Dele
+..    | 24   | Michael  | Val      | Dele, Michael
+..    | 31   | Emma     | Val      | Emma
+June  | 7    | Florence | Parveen  | Dele
+..    | 14   | Emma     | Jenn     | Emma, Dele 
+..    | 21   | Parveen  | Florence | Dele
+..    | 28   | Michael  | Jenn     | Dele, Michael
 
 # Worship Sessions
+- Sunday 5th April 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-04-05.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-04-05.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-04-05.pptx)
 - Sunday 29th March 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-03-29.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-03-29.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-03-29.pptx)
-- Sunday 22nd March 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-03-22.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-03-22.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-03-22.pptx)
-- Sunday 8th March 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-03-08.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-03-08.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-03-08.pptx)
-- Sunday 1st March 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-03-01.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-03-01.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-03-01.pptx)
-- Sunday 22nd February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-22.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-22.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-22.pptx)
-- Sunday 15th February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-15.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-15.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-15.pptx)
-- Sunday 8th February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-08.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-08.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-08.pptx)
-- Sunday 1st February 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-02-01.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-02-01.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-02-01.pptx)
-- Sunday 25th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-25.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-25.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-25.pptx)
-- Sunday 18th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-18.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-18.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-18.pptx)
-- Sunday 4th January 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-01-04.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-01-04.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-01-04.pptx)
 
 
 # Song Keys by Worship Leaders
