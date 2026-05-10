@@ -17,6 +17,7 @@ June  | 7    | Florence | Parveen  | Dele
 ..    | 28   | Michael  | Jenn     | Dele, Michael
 
 # Worship Sessions
+- Sunday 17th May 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-05-17.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-05-17.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-05-17.pptx)
 - Sunday 3rd May 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-05-03.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-05-03.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-05-03.pptx)
 - Sunday 26th April 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-04-26.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-04-26.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-04-26.pptx)
 - Sunday 19th April 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-04-19.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-04-19.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-04-19.pptx)
