@@ -5,9 +5,10 @@ Month | Date | Leader   | BVs      | Music
 June  | 7    | Florence | Parveen  | Dele
 ..    | 14   | Emma     | Jenn     | Emma, Dele 
 ..    | 21   | Parveen  | Florence | Dele
-..    | 28   | Michael  | Jenn     | Dele, Michael
+..    | 28   | Michael  | Parveen  | Dele, Michael
 
 # Worship Sessions
+- Sunday 21st June 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-06-21.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-06-21.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-06-21.pptx)
 - Sunday 14th June 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-06-14-1.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-06-14-1.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-06-14-1.pptx)
 - Sunday 7th June 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-06-07-2.pdf)       |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-06-07-2.pdf)       |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-06-07-2.pptx)
 
