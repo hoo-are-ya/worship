@@ -24,6 +24,10 @@ May   | 3    | Parveen  | Jenn     | Dele
 ..    | 17   | Florence | Jenn     | Dele
 ..    | 24   | Michael  | Val      | Dele, Michael
 ..    | 31   | Emma     | Val      | Emma
+June  | 7    | Florence | Parveen  | Dele
+..    | 14   | Emma     | Jenn     | Emma, Dele 
+..    | 21   | Parveen  | Florence | Dele
+..    | 28   | Michael  | Parveen  | Dele, Michael
 
 
 
