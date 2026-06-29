@@ -2,7 +2,7 @@
 
 Month | Date | Leader   | BVs      | Music          | PA
 ---   | ---  | ---      | ---      | ---            | ---
-Jul   | 5    | Dele     | Parveen  | Dele           | Eric
+Jul   | 5    | Dele     | -        | Dele           | Eric
 ..    | 12   | Emma     | Michael  | Emma, Dele     | Dele
 ..    | 19   | ALL-IN   |          |                |
 ..    | 26   | Parveen  | Jenn     | Dele           | Tony
@@ -17,6 +17,7 @@ Sep   | 6    | Emma     | Val      | Emma, Dele     | Tony
 ..    | 27   | ALL-IN   |          |                |
 
 # Worship Sessions  
+- Sunday 5th July 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-07-05.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-07-05.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-07-05.pptx)
 - Sunday 28th June 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-06-28.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-06-28.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-06-28.pptx)
 - Sunday 21st June 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-06-21.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-06-21.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-06-21.pptx)
 - Sunday 14th June 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-06-14-1.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-06-14-1.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-06-14-1.pptx)
