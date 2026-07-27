@@ -17,6 +17,7 @@ Sep   | 6    | Emma     | Val      | Emma, Dele     | Tony
 ..    | 27   | ALL-IN   |          |                |
 
 # Worship Sessions  
+- Sunday 2nd August 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-08-03.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-08-03.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-08-03.pptx)
 - Sunday 26th July 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-07-26.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-07-26.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-07-26.pptx)
 - Sunday 12th July 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-07-12.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-07-12.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-07-12.pptx)
 - Sunday 5th July 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-07-05.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-07-05.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-07-05.pptx)
@@ -24,11 +25,12 @@ Sep   | 6    | Emma     | Val      | Emma, Dele     | Tony
 
 # Song Keys by Worship Leaders
 
-Song                  | Orig | Emma | Florence | Michael |
+Song                  | Orig | Emma | Flo/Parv | Michael |
 ---                   | ---  | ---  | ---      | ---     |
 All Hail King Jesus   | E    |      | D        |         |
 An Army of Ordinary   | G    |      | E        |         | 
-Ancient of Days       |      |      |          |  C      | 
+Ancient of Days       |      |      | G        |  C      | 
+Agnus Dei             | A    |      | D        |         | 
 Build My Life         | G    | C    |          |  F/D    |
 Bless God             | A    |      | C#       |   E     |
 Come now is the time  | D    |      |          |  D      |  
@@ -58,6 +60,7 @@ Lead Me To The Cross  | D    |      |          |         |
 Living Hope           | G    | G    | G        |  G      |  
 Make Room             | A    |      | D        |         |  
 Mighty To Save        | E    |      |          |         | 
+My Lighthouse         | C    |      | F        |         | 
 My Redeemer lives     | E    |      |          | E       | 
 Never Gonna Stop...   | E    | E    |          |         |  
 Nothing is Impossible | C    |      |          | D       |  
@@ -80,4 +83,5 @@ Turn It Up            | E    | D    | E        |         |
 Who You Say I Am      | A    | G    |          |         |  
 Worthy Of It All      | D    | G    |          | C       |   
 Worthy Is Your Name   | C    |      |          | D       |  
+Your Grace is Enough  | G    |      | E        |         |
   
