@@ -18,9 +18,8 @@ Sep   | 6    | Emma     | Val      | Emma, Dele     | Tony
 
 # Worship Sessions  
 - Sunday 2nd August 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-08-02-1.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-08-02.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-08-02-1.pptx)
-- Sunday 26th July 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-07-26.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-07-26.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-07-26.pptx)
-- Sunday 12th July 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-07-12.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-07-12.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-07-12.pptx)
-- Sunday 5th July 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-07-05.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-07-05.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-07-05.pptx)
+- Sunday 9th August 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-08-09.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-08-09.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-08-09.pptx)
+- Sunday 16th August 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-08-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-08-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-08-16.pptx)
 
 
 # Song Keys by Worship Leaders
