@@ -17,6 +17,7 @@ Sep   | 6    | Emma     | Val      | Emma, Dele     | Tony
 ..    | 27   | ALL-IN   |          |                |
 
 # Worship Sessions  
+- Sunday 6th September 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-09-06.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-09-06.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-09-06.pptx)
 - Sunday 23rd August 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-08-23.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-08-23.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-08-23.pptx)
 - Sunday 16th August 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-08-16.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-08-16.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-08-16.pptx)
 - Sunday 9th August 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-08-09.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-08-09.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-08-09.pptx)
