@@ -28,6 +28,19 @@ June  | 7    | Florence | Parveen  | Dele
 ..    | 14   | Emma     | Jenn     | Emma, Dele 
 ..    | 21   | Parveen  | Florence | Dele
 ..    | 28   | Michael  | Parveen  | Dele, Michael
+Jul   | 5    | Dele     | -        | Dele           
+..    | 12   | Emma     | Michael  | Emma, Dele     
+..    | 19   | ALL-IN   |          |                
+..    | 26   | Parveen  | Jenn     | Dele           
+Aug   | 2    | Michael  | Jenn     | Dele           
+..    | 9    | Michael  | Jenn     | Emma            
+..    | 16   | Dele     | Val      | Dele           
+..    | 23   | Parveen  | -        | Emma, Dele     
+..    | 30   | CLOSED   |          |                  
+Sep   | 6    | Emma     | Val      | Emma, Dele     
+..    | 13   | Michael  | Val      | Dele           
+..    | 20   | Florence | Jenn     | Michael, Dele  
+..    | 27   | ALL-IN   |          |              
 
 
 

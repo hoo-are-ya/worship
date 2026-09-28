@@ -2,19 +2,19 @@
 
 Month | Date | Leader   | BVs      | Music          | PA
 ---   | ---  | ---      | ---      | ---            | ---
-Jul   | 5    | Dele     | -        | Dele           | Eric
-..    | 12   | Emma     | Michael  | Emma, Dele     | Dele
-..    | 19   | ALL-IN   |          |                |
-..    | 26   | Parveen  | Jenn     | Dele           | Tony
-Aug   | 2    | Michael  | Jenn     | Dele           | Dele
-..    | 9    | Michael  | Jenn     | Emma           | Eric 
-..    | 16   | Dele     | Val      | Dele           | Tony
-..    | 23   | Parveen  | -        | Emma, Dele     | Dele
-..    | 30   | CLOSED   |          |                |  
-Sep   | 6    | Emma     | Val      | Emma, Dele     | Tony
-..    | 13   | Michael  | Val      | Dele           | Dele
-..    | 20   | Florence | Jenn     | Michael, Dele  | Eric
-..    | 27   | ALL-IN   |          |                |
+Oct   | 4    | Dele     | Debbie   | Dele, Tony     | All
+..    | 11   | Parveen  | Jenn     | Dele, Tony     | All
+..    | 18   | Michael  | Debbie   | Dele, Tony     | All
+..    | 25   | Dele     | Jenn     | Dele, Tony     | All
+Nov   | 1    | Florence | Michael  | Dele, Tony     | All
+..    | 8    | Emma     | Debbie   | Emma, Tony     | All 
+..    | 15   | Parveen  | Jenn     | Dele, Tony     | All
+..    | 22   | Michael  | Debbie   | Dele, Tony     | All
+..    | 29   | Emma     | Michael  | Emma,Dele,Tony | All
+Dec   | 6    | ALL-IN   |          |                | 
+..    | 13   | Florence | Jenn     | Dele, Tony     | All
+..    | 20   | Emma     | Florence | Emma,Dele,Tony | All
+..    | 27   |          |          |                |
 
 # Worship Sessions  
 - Sunday 4th October 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-10-04.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-10-04.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-10-04.pptx)
