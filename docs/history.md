@@ -245,6 +245,10 @@ Dec  | 4 | Michael | Jennifer, Florence | Dele
 ## Worship Sessions
 
 ### 2026
+- Sunday 25th October 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-10-25.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-10-25.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-10-25.pptx)
+- Sunday 18th October 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-10-18.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-10-18.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-10-18.pptx)
+- Sunday 11th October 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-10-11-1.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-10-11-1.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-10-11-1.pptx)
+- Sunday 4th October 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-10-04-1.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-10-04-1.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-10-04-1.pptx)
 - Sunday 20th September 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-09-20-1.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-09-20-1.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-09-20-1.pptx)
 - Sunday 13th September 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-09-13-2.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-09-13-2.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-09-13-2.pptx)
 - Sunday 6th September 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-09-06-1.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-09-06.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-09-06-1.pptx)
