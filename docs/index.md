@@ -17,7 +17,11 @@ Dec   | 6    | ALL-IN   |          |                |
 ..    | 27   |          |          |                |
 
 # Worship Sessions  
-- Sunday 1st November 2026 [Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-11-01-2.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-11-01-2.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-11-01-2.pptx)
+
+Date | Lyrics | Chords   | Powerpoint
+---   | ---  | ---  | ---  
+Sunday 8th November 2026 |[Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-11-08.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-11-08.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-11-08.pptx)
+Sunday 1st November 2026 |[Lyrics](https://hoo-are-ya.github.io/worship/songs_2026-11-01-2.pdf)        |[Chords](https://hoo-are-ya.github.io/worship/chords_2026-11-01-2.pdf)         |[PPT](https://hoo-are-ya.github.io/worship/songs_2026-11-01-2.pptx)
 
 
 # Song Keys by Worship Leaders
